@@ -50,7 +50,11 @@ def main():
     training_args, args = argp.parse_args_into_dataclasses()
 
     # Dataset selection
-    if args.dataset.endswith('.json') or args.dataset.endswith('.jsonl'):
+    if args.dataset.endswith('.csv'):
+        dataset_id = None
+        dataset = datasets.load_dataset('csv', data_files=args.dataset)
+        eval_split = 'train'
+    elif args.dataset.endswith('.json') or args.dataset.endswith('.jsonl'):
         dataset_id = None
         # Load from local json/jsonl file
         dataset = datasets.load_dataset('json', data_files=args.dataset)
