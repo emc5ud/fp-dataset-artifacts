@@ -1,0 +1,1001 @@
+premise,hypothesis,label
+A person on a horse jumps over a broken down airplane.,A person is training his horse for a competition. A person is training his horse for a competition.,1
+A person on a horse jumps over a broken down airplane.,"A person is at a diner, ordering an omelette. A person is at a diner, ordering an omelette.",2
+A person on a horse jumps over a broken down airplane.,"A person is outdoors, on a horse. A person is outdoors, on a horse.",0
+Children smiling and waving at camera,They are smiling at their parents They are smiling at their parents,1
+Children smiling and waving at camera,There are children present There are children present,0
+Children smiling and waving at camera,The kids are frowning The kids are frowning,2
+A boy is jumping on skateboard in the middle of a red bridge.,The boy skates down the sidewalk. The boy skates down the sidewalk.,2
+A boy is jumping on skateboard in the middle of a red bridge.,The boy does a skateboarding trick. The boy does a skateboarding trick.,0
+A boy is jumping on skateboard in the middle of a red bridge.,The boy is wearing safety equipment. The boy is wearing safety equipment.,1
+An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.,An older man drinks his juice as he waits for his daughter to get off work. An older man drinks his juice as he waits for his daughter to get off work.,1
+An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.,A boy flips a burger. A boy flips a burger.,2
+An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.,An elderly man sits in a small shop. An elderly man sits in a small shop.,1
+Two blond women are hugging one another.,Some women are hugging on vacation. Some women are hugging on vacation.,1
+Two blond women are hugging one another.,The women are sleeping. The women are sleeping.,2
+Two blond women are hugging one another.,There are women showing affection. There are women showing affection.,0
+"A few people in a restaurant setting, one of them is drinking orange juice.",The people are eating omelettes. The people are eating omelettes.,1
+"A few people in a restaurant setting, one of them is drinking orange juice.",The people are sitting at desks in school. The people are sitting at desks in school.,2
+"A few people in a restaurant setting, one of them is drinking orange juice.",The diners are at a restaurant. The diners are at a restaurant.,0
+An older man is drinking orange juice at a restaurant.,A man is drinking juice. A man is drinking juice.,0
+An older man is drinking orange juice at a restaurant.,Two women are at a restaurant drinking wine. Two women are at a restaurant drinking wine.,2
+An older man is drinking orange juice at a restaurant.,A man in a restaurant is waiting for his meal to arrive. A man in a restaurant is waiting for his meal to arrive.,1
+"A man with blond-hair, and a brown shirt drinking out of a public water fountain.",A blond man getting a drink of water from a fountain in the park. A blond man getting a drink of water from a fountain in the park.,1
+"A man with blond-hair, and a brown shirt drinking out of a public water fountain.",A blond man wearing a brown shirt is reading a book on a bench in the park A blond man wearing a brown shirt is reading a book on a bench in the park,2
+"A man with blond-hair, and a brown shirt drinking out of a public water fountain.",A blond man drinking water from a fountain. A blond man drinking water from a fountain.,0
+Two women who just had lunch hugging and saying goodbye.,The friends scowl at each other over a full dinner table. The friends scowl at each other over a full dinner table.,2
+Two women who just had lunch hugging and saying goodbye.,There are two woman in this picture. There are two woman in this picture.,0
+Two women who just had lunch hugging and saying goodbye.,"The friends have just met for the first time in 20 years, and have had a great time catching up. The friends have just met for the first time in 20 years, and have had a great time catching up.",1
+"Two women, holding food carryout containers, hug.","The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags. The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.",1
+"Two women, holding food carryout containers, hug.",Two groups of rival gang members flipped each other off. Two groups of rival gang members flipped each other off.,2
+"Two women, holding food carryout containers, hug.",Two women hug each other. Two women hug each other.,0
+A Little League team tries to catch a runner sliding into a base in an afternoon game.,A team is trying to score the games winning out. A team is trying to score the games winning out.,1
+A Little League team tries to catch a runner sliding into a base in an afternoon game.,A team is trying to tag a runner out. A team is trying to tag a runner out.,0
+A Little League team tries to catch a runner sliding into a base in an afternoon game.,A team is playing baseball on Saturn. A team is playing baseball on Saturn.,2
+The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.,A school hosts a basketball game. A school hosts a basketball game.,2
+The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.,A high school is hosting an event. A high school is hosting an event.,1
+The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.,A school is hosting an event. A school is hosting an event.,0
+High fashion ladies wait outside a tram beside a crowd of people in the city.,The women do not care what clothes they wear. The women do not care what clothes they wear.,2
+High fashion ladies wait outside a tram beside a crowd of people in the city.,Women are waiting by a tram. Women are waiting by a tram.,0
+High fashion ladies wait outside a tram beside a crowd of people in the city.,The women enjoy having a good fashion sense. The women enjoy having a good fashion sense.,1
+"A man, woman, and child enjoying themselves on a beach.","A child with mom and dad, on summer vacation at the beach. A child with mom and dad, on summer vacation at the beach.",1
+"A man, woman, and child enjoying themselves on a beach.",A family of three is at the beach. A family of three is at the beach.,0
+"A man, woman, and child enjoying themselves on a beach.",A family of three is at the mall shopping. A family of three is at the mall shopping.,2
+People waiting to get on a train or just getting off.,The people waiting on the train are sitting. The people waiting on the train are sitting.,1
+People waiting to get on a train or just getting off.,There are people just getting on a train There are people just getting on a train,0
+People waiting to get on a train or just getting off.,There are people waiting on a train. There are people waiting on a train.,0
+A couple playing with a little boy on the beach.,A couple are playing with a young child outside. A couple are playing with a young child outside.,0
+A couple playing with a little boy on the beach.,A couple are playing frisbee with a young child at the beach. A couple are playing frisbee with a young child at the beach.,1
+A couple playing with a little boy on the beach.,A couple watch a little girl play by herself on the beach. A couple watch a little girl play by herself on the beach.,2
+A couple play in the tide with their young son.,The family is sitting down for dinner. The family is sitting down for dinner.,2
+A couple play in the tide with their young son.,The family is outside. The family is outside.,0
+A couple play in the tide with their young son.,The family is on vacation. The family is on vacation.,1
+A man and a woman cross the street in front of a pizza and gyro restaurant.,The people are standing still on the curb. The people are standing still on the curb.,2
+A man and a woman cross the street in front of a pizza and gyro restaurant.,"Near a couple of restaurants, two people walk across the street. Near a couple of restaurants, two people walk across the street.",0
+A man and a woman cross the street in front of a pizza and gyro restaurant.,The couple are walking across the street together. The couple are walking across the street together.,1
+A woman in a green jacket and hood over her head looking towards a valley.,The woman is nake. The woman is nake.,2
+A woman in a green jacket and hood over her head looking towards a valley.,The woman is cold. The woman is cold.,1
+A woman in a green jacket and hood over her head looking towards a valley.,The woman is wearing green. The woman is wearing green.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The man with the sign is caucasian. The man with the sign is caucasian.,1
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,They are protesting outside the capital. They are protesting outside the capital.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A woman in white. A woman in white.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A man is advertising for a restaurant. A man is advertising for a restaurant.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The woman is wearing black. The woman is wearing black.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A man and a woman walk down a crowded city street. A man and a woman walk down a crowded city street.,1
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The woman is wearing white. The woman is wearing white.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,They are working for John's Pizza. They are working for John's Pizza.,1
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,Olympic swimming. Olympic swimming.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A man and a soman are eating together at John's Pizza and Gyro. A man and a soman are eating together at John's Pizza and Gyro.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,They are walking with a sign. They are walking with a sign.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The woman is waiting for a friend. The woman is waiting for a friend.,1
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The man is sitting down while he has a sign for John's Pizza and Gyro in his arms. The man is sitting down while he has a sign for John's Pizza and Gyro in his arms.,2
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,The woman and man are outdoors. The woman and man are outdoors.,0
+Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.,A woman ordering pizza. A woman ordering pizza.,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",The people are related. The people are related.,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults run across the street to get away from a red shirted person chasing them. Two adults run across the street to get away from a red shirted person chasing them.,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",The adults are both male and female. The adults are both male and female.,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two people walk home after a tasty steak dinner. Two people walk home after a tasty steak dinner.,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults swimming in water Two adults swimming in water,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walk across a street. Two adults walk across a street.,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two people ride bicycles into a tunnel. Two people ride bicycles into a tunnel.,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two people walk away from a restaurant across a street. Two people walk away from a restaurant across a street.,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walking across a road near the convicted prisoner dressed in red Two adults walking across a road near the convicted prisoner dressed in red,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two friends cross a street. Two friends cross a street.,1
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Some people board a train. Some people board a train.,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walk across the street. Two adults walk across the street.,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walking across a road Two adults walking across a road,0
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",There are no women in the picture. There are no women in the picture.,2
+"Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.",Two adults walk across the street to get away from a red shirted person who is chasing them. Two adults walk across the street to get away from a red shirted person who is chasing them.,1
+"A woman wearing all white and eating, walks next to a man holding a briefcase.",A married couple is sleeping. A married couple is sleeping.,2
+"A woman wearing all white and eating, walks next to a man holding a briefcase.",A female is next to a man. A female is next to a man.,0
+"A woman wearing all white and eating, walks next to a man holding a briefcase.",A married couple is walking next to each other. A married couple is walking next to each other.,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",Nobody has food. Nobody has food.,2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.","A woman eats a banana and walks across a street, and there is a man trailing behind her. A woman eats a banana and walks across a street, and there is a man trailing behind her.",0
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",The woman and man are playing baseball together. The woman and man are playing baseball together.,2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",two coworkers cross pathes on a street two coworkers cross pathes on a street,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.","A woman eats ice cream walking down the sidewalk, and there is another woman in front of her with a purse. A woman eats ice cream walking down the sidewalk, and there is another woman in front of her with a purse.",2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",The mans briefcase is for work. The mans briefcase is for work.,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",A person eating. A person eating.,0
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",A person that is hungry. A person that is hungry.,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",An actress and her favorite assistant talk a walk in the city. An actress and her favorite assistant talk a walk in the city.,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",a woman eating a banana crosses a street a woman eating a banana crosses a street,0
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",the woman is a seductress the woman is a seductress,1
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",a woman sits for lunch a woman sits for lunch,2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",the woman is having coffee at the cafe the woman is having coffee at the cafe,2
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",The woman is eating a banana. The woman is eating a banana.,0
+"A woman is walking across the street eating a banana, while a man is following with his briefcase.",the woman is outside the woman is outside,0
+A skier slides along a metal rail.,A skier is near the rail looking down. A skier is near the rail looking down.,1
+A skier slides along a metal rail.,A skier is near the rail. A skier is near the rail.,0
+A skier slides along a metal rail.,A skier is away from the rail. A skier is away from the rail.,2
+A person on skis on a rail at night.,The woman eats a car The woman eats a car,2
+A person on skis on a rail at night.,The person skiis The person skiis,0
+A person on skis on a rail at night.,They are fantastic skiiers They are fantastic skiiers,1
+A skier in electric green on the edge of a ramp made of metal bars.,The skier was on the edge of the ramp. The skier was on the edge of the ramp.,1
+A skier in electric green on the edge of a ramp made of metal bars.,The brightly dressed skier slid down the race course. The brightly dressed skier slid down the race course.,0
+A skier in electric green on the edge of a ramp made of metal bars.,The jogger ran through the streets. The jogger ran through the streets.,2
+A yellow uniformed skier is performing a trick across a railed object.,A snowboarder is riding a ski lift. A snowboarder is riding a ski lift.,2
+A yellow uniformed skier is performing a trick across a railed object.,A skier is competing in a competition. A skier is competing in a competition.,1
+A yellow uniformed skier is performing a trick across a railed object.,Somebody is engaging in winter sports. Somebody is engaging in winter sports.,0
+A blond man is drinking from a public fountain.,The man is drinking water. The man is drinking water.,0
+A blond man is drinking from a public fountain.,The man is very thirsty. The man is very thirsty.,1
+A blond man is drinking from a public fountain.,The man is drinking coffee. The man is drinking coffee.,2
+Wet brown dog swims towards camera.,The dog is sleeping in his bed. The dog is sleeping in his bed.,2
+Wet brown dog swims towards camera.,A dog is playing fetch in a pond. A dog is playing fetch in a pond.,1
+Wet brown dog swims towards camera.,A dog is in the water. A dog is in the water.,0
+Closeup image of a dog swimming.,A cat reluctantly takes a bath. A cat reluctantly takes a bath.,2
+Closeup image of a dog swimming.,An underwater camera takes a photo of a puppy. An underwater camera takes a photo of a puppy.,1
+Closeup image of a dog swimming.,A dog swims in a body of water. A dog swims in a body of water.,0
+The furry brown dog is swimming in the ocean.,A dog is chasing a fish. A dog is chasing a fish.,1
+The furry brown dog is swimming in the ocean.,A dog is swimming. A dog is swimming.,0
+The furry brown dog is swimming in the ocean.,A dog is running around the yard. A dog is running around the yard.,2
+A big brown dog swims towards the camera.,A dog is chasing a stick. A dog is chasing a stick.,2
+A big brown dog swims towards the camera.,A photographer is taking pictures of a dog. A photographer is taking pictures of a dog.,1
+A big brown dog swims towards the camera.,A dog swims towards the camera. A dog swims towards the camera.,0
+"A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.",The farmer wearing a gray hat is driving a horse-drawn cart. The farmer wearing a gray hat is driving a horse-drawn cart.,1
+"A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.",The man with the gray hat and pitchfork is directing the cart. The man with the gray hat and pitchfork is directing the cart.,0
+"A man wearing black with a gray hat, holding a pitchfork, directs a horse-drawn cart.",The woman in a blue dress is hitching a horse to a cart. The woman in a blue dress is hitching a horse to a cart.,2
+"A man is leading a Clydesdale up a hay road, within a Old Country.",A man is walking with his horse up a country road. A man is walking with his horse up a country road.,0
+"A man is leading a Clydesdale up a hay road, within a Old Country.",A woman in a gray business suit is drinking tea. A woman in a gray business suit is drinking tea.,2
+"A man is leading a Clydesdale up a hay road, within a Old Country.",A man in a straw hat and overalls is walking with his horse up a country road. A man in a straw hat and overalls is walking with his horse up a country road.,1
+A farmer fertilizing his garden with manure with a horse and wagon.,The man is fertilizering his garden. The man is fertilizering his garden.,0
+A farmer fertilizing his garden with manure with a horse and wagon.,The man is on the city street with his horse and wagon. The man is on the city street with his horse and wagon.,2
+A farmer fertilizing his garden with manure with a horse and wagon.,The man is in an open field with a horse and wagon. The man is in an open field with a horse and wagon.,1
+A white horse is pulling a cart while a man stands and watches.,A horse is hauling goods. A horse is hauling goods.,1
+A white horse is pulling a cart while a man stands and watches.,An animal is walking outside. An animal is walking outside.,0
+A white horse is pulling a cart while a man stands and watches.,A man is watching a horse race. A man is watching a horse race.,2
+A small group of church-goers watch a choir practice.,A group watches a practice. A group watches a practice.,0
+A small group of church-goers watch a choir practice.,The pastor and elders watch the choir to make sure they are good. The pastor and elders watch the choir to make sure they are good.,1
+A dog drops a red disc on a beach.,a dog catch the ball on a beach a dog catch the ball on a beach,2
+A dog drops a red disc on a beach.,a dog drops a disc with a boy a dog drops a disc with a boy,1
+A dog drops a red disc on a beach.,a dog drops a red disc a dog drops a red disc,0
+A man and a woman are walking on a street at the top of a hill.,A married couple walks atop a hill. A married couple walks atop a hill.,1
+A man and a woman are walking on a street at the top of a hill.,A man and woman walk on a street. A man and woman walk on a street.,0
+A man and a woman are walking on a street at the top of a hill.,Two men play catch on a hill. Two men play catch on a hill.,2
+An elderly man is drinking orange juice at a cafe.,An elderly man is drinking apple juice at a bar. An elderly man is drinking apple juice at a bar.,2
+An elderly man is drinking orange juice at a cafe.,An older gentleman is enjoying his orange juice at a new cafe. An older gentleman is enjoying his orange juice at a new cafe.,1
+An elderly man is drinking orange juice at a cafe.,An old man is enjoying a beverage at a cafe. An old man is enjoying a beverage at a cafe.,0
+A couple holding hands walks down a street.,Two men hold hands while walking down the street. Two men hold hands while walking down the street.,1
+A couple holding hands walks down a street.,There are people sitting on the side of the road. There are people sitting on the side of the road.,2
+A couple holding hands walks down a street.,People are holding hands and walking. People are holding hands and walking.,0
+A couple walk through a white brick town.,People are walking outdoors. People are walking outdoors.,0
+A couple walk through a white brick town.,A man and woman walk in a brown brick city. A man and woman walk in a brown brick city.,2
+A couple walk through a white brick town.,A man and woman walk through a big city. A man and woman walk through a big city.,1
+Children going home from school.,The children are at the library. The children are at the library.,2
+Children going home from school.,The school children head home. The school children head home.,0
+Children going home from school.,The children are walking in the afternooon. The children are walking in the afternooon.,1
+People listening to a choir in a Catholic church.,People are listening to a metal band. People are listening to a metal band.,2
+People listening to a choir in a Catholic church.,Choir singing in mass. Choir singing in mass.,0
+People listening to a choir in a Catholic church.,People are in mass for a first communion People are in mass for a first communion,1
+Bicyclists waiting at an intersection.,A bicyclist is sitting down having lunch at the mall. A bicyclist is sitting down having lunch at the mall.,2
+Bicyclists waiting at an intersection.,The bicyclists are outside. The bicyclists are outside.,0
+Bicyclists waiting at an intersection.,Bicyclists waiting for a car to pass. Bicyclists waiting for a car to pass.,1
+Bicyclists waiting at an intersection.,A person on a bike is waiting while the light is green. A person on a bike is waiting while the light is green.,1
+Bicyclists waiting at an intersection.,The bicycles are on a road. The bicycles are on a road.,0
+Bicyclists waiting at an intersection.,A person on a bike is near a street. A person on a bike is near a street.,0
+Bicyclists waiting at an intersection.,Bikers stop and wait for traffic at the intersection. Bikers stop and wait for traffic at the intersection.,0
+Bicyclists waiting at an intersection.,The bicyclists ride through the mall on their bikes. The bicyclists ride through the mall on their bikes.,2
+Bicyclists waiting at an intersection.,Bicyclists waiting their turn to cross. Bicyclists waiting their turn to cross.,0
+Bicyclists waiting at an intersection.,Bicyclists riding along a freeway. Bicyclists riding along a freeway.,2
+Bicyclists waiting at an intersection.,The bicyclists are dead. The bicyclists are dead.,2
+Bicyclists waiting at an intersection.,The bicyclists are riding to the book store. The bicyclists are riding to the book store.,1
+Bicyclists waiting at an intersection.,The bicyclists are in a race. The bicyclists are in a race.,1
+Bicyclists waiting at an intersection.,The bicyclists are at home. The bicyclists are at home.,2
+Bicyclists waiting at an intersection.,A group of bicyclists remain on the sidewalk at the intersection. A group of bicyclists remain on the sidewalk at the intersection.,1
+People waiting at a light on bikes.,A bunch of friends are on a boat A bunch of friends are on a boat,2
+People waiting at a light on bikes.,People with bikes. People with bikes.,0
+People waiting at a light on bikes.,There are people on bikes at a light There are people on bikes at a light,1
+People waiting at a light on bikes.,The people are inside waiting. The people are inside waiting.,2
+People waiting at a light on bikes.,There are some people outside. There are some people outside.,0
+People waiting at a light on bikes.,People are on their bikes. People are on their bikes.,0
+People waiting at a light on bikes.,The people are riding their bikes to the gym. The people are riding their bikes to the gym.,1
+People waiting at a light on bikes.,People biking through the city. People biking through the city.,1
+People waiting at a light on bikes.,The people are on bikes. The people are on bikes.,0
+People waiting at a light on bikes.,There is traffic next to the bikes. There is traffic next to the bikes.,1
+People waiting at a light on bikes.,The people are running a red light. The people are running a red light.,2
+People waiting at a light on bikes.,People in a car race. People in a car race.,2
+People waiting at a light on bikes.,Men and women outside on a street corner. Men and women outside on a street corner.,0
+People waiting at a light on bikes.,A ladybug has landed on a beautiful pink rose. A ladybug has landed on a beautiful pink rose.,2
+People waiting at a light on bikes.,"Men and women on their motorcycles, wearing helmets and protective jackets. Men and women on their motorcycles, wearing helmets and protective jackets.",1
+People on bicycles waiting at an intersection.,The people are on skateboards. The people are on skateboards.,2
+People on bicycles waiting at an intersection.,People are riding their bicycles. People are riding their bicycles.,0
+People on bicycles waiting at an intersection.,There is a bike race happening right now. There is a bike race happening right now.,1
+People on bicycles waiting at an intersection.,People on bicycles enjoy a conversation waiting for traffic. People on bicycles enjoy a conversation waiting for traffic.,1
+People on bicycles waiting at an intersection.,The people are trying to get to the convenience store across the street. The people are trying to get to the convenience store across the street.,1
+People on bicycles waiting at an intersection.,People wait on traffic. People wait on traffic.,0
+People on bicycles waiting at an intersection.,Some people on bikes are stopped at a junction. Some people on bikes are stopped at a junction.,1
+People on bicycles waiting at an intersection.,People are waiting on foot. People are waiting on foot.,2
+People on bicycles waiting at an intersection.,There are bicyclists stopped at a road. There are bicyclists stopped at a road.,0
+People on bicycles waiting at an intersection.,The people are sleeping. The people are sleeping.,2
+People on bicycles waiting at an intersection.,The people are waiting for the movie to begin. The people are waiting for the movie to begin.,2
+People on bicycles waiting at an intersection.,More than one person on a bicycle is obeying traffic laws. More than one person on a bicycle is obeying traffic laws.,0
+People on bicycles waiting at an intersection.,People are on mountain bikes. People are on mountain bikes.,1
+People on bicycles waiting at an intersection.,There are people on bicycles. There are people on bicycles.,0
+People on bicycles waiting at an intersection.,People on bicycles speed through an intersection. People on bicycles speed through an intersection.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The cart is empty. The cart is empty.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man is giving another man a piggyback ride. A man is giving another man a piggyback ride.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A cart is full of items. A cart is full of items.,0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man is sleeping under a bench. A man is sleeping under a bench.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man watches another man. A man watches another man.,0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A produce vendor is watched by a health department worker. A produce vendor is watched by a health department worker.,1
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,"Someone is on top of a cart full of items, while someone else observes. Someone is on top of a cart full of items, while someone else observes.",0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The man is watching a woman. The man is watching a woman.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A merchant and his assistant are trying to determine how many products are in their cart. A merchant and his assistant are trying to determine how many products are in their cart.,1
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The cart is full of coal. The cart is full of coal.,1
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man is standing on top of a cart. A man is standing on top of a cart.,0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The cart is filled to the top. The cart is filled to the top.,0
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,The men are outside. The men are outside.,1
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man eats octopus. A man eats octopus.,2
+A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.,A man is standing on a cart full of groceries. A man is standing on a cart full of groceries.,1
+A boy is drinking out of a water fountain shaped like a woman.,A male is getting a drink of water. A male is getting a drink of water.,0
+A boy is drinking out of a water fountain shaped like a woman.,A sculptor takes a drink from a fountain that he made that looks like his girlfriend. A sculptor takes a drink from a fountain that he made that looks like his girlfriend.,1
+A boy is drinking out of a water fountain shaped like a woman.,A man is drinking lemonade from a glass. A man is drinking lemonade from a glass.,2
+three bikers stop in town.,cars stop in town cars stop in town,1
+three bikers stop in town.,Bikers stop in towns Bikers stop in towns,0
+three bikers stop in town.,A town has witnessed the arrival of three bikers. A town has witnessed the arrival of three bikers.,0
+three bikers stop in town.,Thoes bikers are slowing down Thoes bikers are slowing down,1
+three bikers stop in town.,The bikers are riding Harley's. The bikers are riding Harley's.,1
+three bikers stop in town.,Three bikers are going 100 mph Three bikers are going 100 mph,2
+three bikers stop in town.,The bikers breathe water The bikers breathe water,2
+three bikers stop in town.,Bikers stop for gas Bikers stop for gas,0
+three bikers stop in town.,Three bicyclists are riding in a pack. Three bicyclists are riding in a pack.,1
+three bikers stop in town.,There is a very angry dog. There is a very angry dog.,2
+three bikers stop in town.,Three bikers are taking a rest in the town. Three bikers are taking a rest in the town.,1
+three bikers stop in town.,The bikers are in the town. The bikers are in the town.,0
+three bikers stop in town.,A group of bikers are in the street. A group of bikers are in the street.,0
+three bikers stop in town.,The bikers didn't stop in the town. The bikers didn't stop in the town.,2
+three bikers stop in town.,Five bikers are riding on the road. Five bikers are riding on the road.,2
+Two people loading brush on a trailer attached to a truck.,A man is carrying a canoe to the water. A man is carrying a canoe to the water.,2
+Two people loading brush on a trailer attached to a truck.,A couple of people are loading brush onto a trailer that is attached to a truck. A couple of people are loading brush onto a trailer that is attached to a truck.,0
+Two people loading brush on a trailer attached to a truck.,Two people loading brush on a trailer attached to a truck so they can go camping and burn it. Two people loading brush on a trailer attached to a truck so they can go camping and burn it.,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a bearded man pulls a rope a bearded man pulls a rope,0
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A bearded man is pulling a rope at work. A bearded man is pulling a rope at work.,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man pulls on a rope. A man pulls on a rope.,0
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",The man was on the job trying to move some equipment. The man was on the job trying to move some equipment.,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a man pulls his beard a man pulls his beard,2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a bearded man is pulling a car with his teeth. a bearded man is pulling a car with his teeth.,2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a man competes in a rope pulling contest a man competes in a rope pulling contest,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man is trying to pull his car out of a lake A man is trying to pull his car out of a lake,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",The man was clean shaven. The man was clean shaven.,2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A bearded man is pulling on a rope. A bearded man is pulling on a rope.,0
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man is dragging a sled behind him. A man is dragging a sled behind him.,1
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.","A man in a swimsuit, swings on a rope. A man in a swimsuit, swings on a rope.",2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man is wearing a black shirt A man is wearing a black shirt,2
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",A man is pulling on a rope. A man is pulling on a rope.,0
+"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",The man is able to grow a beard. The man is able to grow a beard.,0
+A man with facial hair and a red and gray shirt tugging on a piece of rope.,A man is naked on the bed. A man is naked on the bed.,2
+A man with facial hair and a red and gray shirt tugging on a piece of rope.,A man is wearing a red and gray shirt. A man is wearing a red and gray shirt.,1
+A man with facial hair and a red and gray shirt tugging on a piece of rope.,A man has facial hair. A man has facial hair.,0
+A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.,The middle aged oriental woman is watchingt v The middle aged oriental woman is watchingt v,2
+A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.,A middle aged oriental woman in a green headscarf and blue shirt is flashing a giant smile A middle aged oriental woman in a green headscarf and blue shirt is flashing a giant smile,0
+A middle-aged oriental woman in a green headscarf and blue shirt is flashing a giant smile.,The middle aged oriental woman is very happy The middle aged oriental woman is very happy,1
+An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.,An Asian woman is happy because she found money on the ground. An Asian woman is happy because she found money on the ground.,1
+An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.,An Asian woman is smiling at while another lady is rowing. An Asian woman is smiling at while another lady is rowing.,0
+An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.,An Asian woman is running from a dog. An Asian woman is running from a dog.,2
+A boat worker securing line.,A worker is doing something to a boat. A worker is doing something to a boat.,0
+A boat worker securing line.,The boat worker is swimming in the ocean. The boat worker is swimming in the ocean.,2
+A boat worker securing line.,The boat worker works hard to establish the line. The boat worker works hard to establish the line.,1
+A small girl with a necklace is swimming.,A small girl with a necklace is swimming in a pool A small girl with a necklace is swimming in a pool,1
+A small girl with a necklace is swimming.,A fat girl is diving off the edge A fat girl is diving off the edge,2
+A small girl with a necklace is swimming.,A small girl with a necklace is in the water A small girl with a necklace is in the water,0
+a skateboarder skates in the pool.,A skate swims in the pool. A skate swims in the pool.,2
+a skateboarder skates in the pool.,A skater is in the pool. A skater is in the pool.,0
+a skateboarder skates in the pool.,A skater grinds on the lip of the pool. A skater grinds on the lip of the pool.,1
+"A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization ""Save the Children.""",A man is wrapped in a UNICEF blanket. A man is wrapped in a UNICEF blanket.,2
+"A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization ""Save the Children.""",A couple carrying a child are walking along water. A couple carrying a child are walking along water.,0
+"A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization ""Save the Children.""",An Indian couple is seeking refuge with a humanitarian organization. An Indian couple is seeking refuge with a humanitarian organization.,1
+"There is a woman holding a baby, along with a man with a save the children bag.",A group of people are possing for an add. A group of people are possing for an add.,0
+"There is a woman holding a baby, along with a man with a save the children bag.",A man and a woman are hoding their son. A man and a woman are hoding their son.,1
+"There is a woman holding a baby, along with a man with a save the children bag.",A man is watching an airplane. A man is watching an airplane.,2
+"A family with a baby, the father is wearing a save the children sign.",Three adults are pictured. Three adults are pictured.,2
+"A family with a baby, the father is wearing a save the children sign.",A man is wearing something with writing on it. A man is wearing something with writing on it.,0
+"A family with a baby, the father is wearing a save the children sign.",A woman is holding a baby. A woman is holding a baby.,1
+A foreign family is walking along a dirt path next to the water.,they are riding a bike they are riding a bike,2
+A foreign family is walking along a dirt path next to the water.,People are walking next to a lake. People are walking next to a lake.,1
+A foreign family is walking along a dirt path next to the water.,A foreigner group of cousins hike along a trail next to a stream. A foreigner group of cousins hike along a trail next to a stream.,1
+A foreign family is walking along a dirt path next to the water.,A foreign family walks by a dirt trail along a body of water. A foreign family walks by a dirt trail along a body of water.,0
+A foreign family is walking along a dirt path next to the water.,The family is admiring the water The family is admiring the water,0
+A foreign family is walking along a dirt path next to the water.,The people are driving a car on the freeway. The people are driving a car on the freeway.,2
+A foreign family is walking along a dirt path next to the water.,A family of foreigners swims in the water. A family of foreigners swims in the water.,2
+A foreign family is walking along a dirt path next to the water.,they are trying not to fall in the water they are trying not to fall in the water,1
+A foreign family is walking along a dirt path next to the water.,A group of locals run on a dirt trail next to a frozen stream. A group of locals run on a dirt trail next to a frozen stream.,2
+A foreign family is walking along a dirt path next to the water.,A family of foreigners walks by the water. A family of foreigners walks by the water.,0
+A foreign family is walking along a dirt path next to the water.,A family walks along a dirt path. A family walks along a dirt path.,0
+A foreign family is walking along a dirt path next to the water.,A family plays board games at their dinner table. A family plays board games at their dinner table.,2
+A foreign family is walking along a dirt path next to the water.,There is a family taking a walk outside. There is a family taking a walk outside.,0
+A foreign family is walking along a dirt path next to the water.,A family walks along a dirt path in a forest by a pond. A family walks along a dirt path in a forest by a pond.,1
+A foreign family is walking along a dirt path next to the water.,A family of foreigners walks by the lake. A family of foreigners walks by the lake.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",People are looking at sculptures at a museum. People are looking at sculptures at a museum.,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",There are people next to sculptures. There are people next to sculptures.,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",A man and a woman are happily standing. A man and a woman are happily standing.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",People standing near sculptures People standing near sculptures,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",Three people are looking at painting at a school fair. Three people are looking at painting at a school fair.,2
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",Nobody is standing. Nobody is standing.,2
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",The sculptures are a recent creation. The sculptures are a recent creation.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",A man and a woman are standing. A man and a woman are standing.,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",Tall people standing Tall people standing,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",The is a single sculpture. The is a single sculpture.,2
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",The man and woman are standing by a swimming pool. The man and woman are standing by a swimming pool.,2
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",People are looking at scultures that were made by a famous artist. People are looking at scultures that were made by a famous artist.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",There are sculptures of people. There are sculptures of people.,1
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",There are scultupres nearby. There are scultupres nearby.,0
+"A man and a woman are standing next to sculptures, talking while another man looks at other sculptures.",A man and a woman are sitting. A man and a woman are sitting.,2
+Group of young women in dresses strolling on the sidewalk.,all the women are well dressed all the women are well dressed,1
+Group of young women in dresses strolling on the sidewalk.,all the young girls won the first prize all the young girls won the first prize,2
+Group of young women in dresses strolling on the sidewalk.,there are some groups one of them of young females are in dresses strolling for a ramp walk there are some groups one of them of young females are in dresses strolling for a ramp walk,0
+A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.,a man is photographing a man skateboarding. a man is photographing a man skateboarding.,0
+A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.,a man is riding his scooter alone a man is riding his scooter alone,2
+A man wearing a striped top and jeans does a skateboard trick on some steps while a man who is hunched over photographs him.,tony hawks manager is photographing tony hawk skateboarding tony hawks manager is photographing tony hawk skateboarding,1
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man is taking the picture of a skateboarder who is being taken by aliens. A man is taking the picture of a skateboarder who is being taken by aliens.,2
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,Photographers capture a male skateboarder performing tricks inside an abandoned building. Photographers capture a male skateboarder performing tricks inside an abandoned building.,2
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A woman is skateboarding with her boyfriend. A woman is skateboarding with her boyfriend.,2
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man is taking the picture of a skateboarder who is performing a trick. A man is taking the picture of a skateboarder who is performing a trick.,0
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man photographs a wedding. A man photographs a wedding.,2
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man is taking photos of his son doing tricks on the skateboard. A man is taking photos of his son doing tricks on the skateboard.,1
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man photographs Tony Hawk skateboarding. A man photographs Tony Hawk skateboarding.,1
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man is taking photos of skateboarding tricks. A man is taking photos of skateboarding tricks.,0
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,People take photos outdoors while a man performs exciting skateboarding tricks. People take photos outdoors while a man performs exciting skateboarding tricks.,0
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man is photographing another man. A man is photographing another man.,0
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A pro photographer is taking pictures of a pro skater. A pro photographer is taking pictures of a pro skater.,1
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,Two men are going down a water slide. Two men are going down a water slide.,2
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man photographs a skateboarder doing tricks. A man photographs a skateboarder doing tricks.,0
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A man tries to get the perfect picture of a skateboarder for a magazine. A man tries to get the perfect picture of a skateboarder for a magazine.,1
+A man squatting in the foreground of a photograph while taking a photograph of his own of a man doing a skateboarding kick flip in midair above a short flight of stairs outdoors.,A male skateboarder performs tricks outdoors for professional photographers. A male skateboarder performs tricks outdoors for professional photographers.,1
+One biker is running with their bike while another is riding around them.,The people are driving cars The people are driving cars,2
+One biker is running with their bike while another is riding around them.,The people are part of a club The people are part of a club,1
+One biker is running with their bike while another is riding around them.,People have bikes People have bikes,0
+"Two people with bicycles, one in front running with a bike and one in back riding.",Two people eating ice cream cones at the mall. Two people eating ice cream cones at the mall.,2
+"Two people with bicycles, one in front running with a bike and one in back riding.",Two people taking their bikes to the trail. Two people taking their bikes to the trail.,1
+"Two people with bicycles, one in front running with a bike and one in back riding.",One person running next to their bike with the person riding their bike behind them. One person running next to their bike with the person riding their bike behind them.,0
+A young man doing a trick on a skateboard down the stairs while being photographed.,A young man roller blades across a ramp while being photographed. A young man roller blades across a ramp while being photographed.,2
+A young man doing a trick on a skateboard down the stairs while being photographed.,A helmet-less young man does a trick on a skateboard while being photographed. A helmet-less young man does a trick on a skateboard while being photographed.,1
+A young man doing a trick on a skateboard down the stairs while being photographed.,A man being photographed while he does a trick on his skateboard down the stairs. A man being photographed while he does a trick on his skateboard down the stairs.,0
+"A lady in a black and white striped shirt and holding a bouquet of flowers, looks seriously at two gentlemen talking on the steps.",A lady is about to propose to her boyfriend. A lady is about to propose to her boyfriend.,1
+"A lady in a black and white striped shirt and holding a bouquet of flowers, looks seriously at two gentlemen talking on the steps.",A lady with a serious face is standing with two guys in front of steps outside. A lady with a serious face is standing with two guys in front of steps outside.,0
+"A lady in a black and white striped shirt and holding a bouquet of flowers, looks seriously at two gentlemen talking on the steps.",Three guys are standing indoors with flowers in their hands. Three guys are standing indoors with flowers in their hands.,2
+A man walking proudly down the street.,The man is in the theatre watching Avatar. The man is in the theatre watching Avatar.,2
+A man walking proudly down the street.,The man is part of the gay pride parade. The man is part of the gay pride parade.,1
+A man walking proudly down the street.,A man is outside. A man is outside.,0
+Four teenage boys are doing cannonballs into a swimming pool.,Four friends are having a competition to see who throws the most water out of a pool. Four friends are having a competition to see who throws the most water out of a pool.,1
+Four teenage boys are doing cannonballs into a swimming pool.,A group of young men are splashing a lot of water. A group of young men are splashing a lot of water.,0
+Four teenage boys are doing cannonballs into a swimming pool.,Some boys are eating pizza in a restaurant. Some boys are eating pizza in a restaurant.,2
+Three men standing on grass by the water looking at something on a table.,The three men are by the lake. The three men are by the lake.,1
+Three men standing on grass by the water looking at something on a table.,The three men are outside. The three men are outside.,0
+Three men standing on grass by the water looking at something on a table.,The three men are indoors playing Foosball. The three men are indoors playing Foosball.,2
+A woman stands behind an outdoor grill with a blue basket of food in her hands.,A woman holding a blue basket full of food at a family cookout. A woman holding a blue basket full of food at a family cookout.,1
+A woman stands behind an outdoor grill with a blue basket of food in her hands.,A woman standing behind a grill outside with a blue basket of food in her hands. A woman standing behind a grill outside with a blue basket of food in her hands.,0
+A woman stands behind an outdoor grill with a blue basket of food in her hands.,A woman holding a blue basket full of easter eggs outside of a church. A woman holding a blue basket full of easter eggs outside of a church.,2
+A Land Rover makes its way through a deep pond.,A car gets stuck in the water. A car gets stuck in the water.,1
+A Land Rover makes its way through a deep pond.,A car is in the shop. A car is in the shop.,2
+A Land Rover makes its way through a deep pond.,A car drives through the water. A car drives through the water.,0
+many people relax in the yard.,A group of people are outside. A group of people are outside.,0
+many people relax in the yard.,A family enjoys the sunny day in their backyard. A family enjoys the sunny day in their backyard.,1
+many people relax in the yard.,People watch tv in their living room. People watch tv in their living room.,2
+A car sinking in water.,A car is flooding. A car is flooding.,0
+A car sinking in water.,A car has crashed into a large lake. A car has crashed into a large lake.,1
+A car sinking in water.,A truck drives down a country road in the sunshine. A truck drives down a country road in the sunshine.,2
+A man wearing black is playing an electric guitar at a concert.,A man is playing the guitar. A man is playing the guitar.,0
+A man wearing black is playing an electric guitar at a concert.,A man is singing as he plays guitar. A man is singing as he plays guitar.,1
+A man wearing black is playing an electric guitar at a concert.,A man is playing the piano. A man is playing the piano.,2
+A man with wild hair rocks a show playing a guitar center stage.,The bald man played the drums. The bald man played the drums.,2
+A man with wild hair rocks a show playing a guitar center stage.,A guy stands on stage with his guitar. A guy stands on stage with his guitar.,0
+A man with wild hair rocks a show playing a guitar center stage.,One crazy looking man plays in a show. One crazy looking man plays in a show.,1
+woman and child on trolley car labeled Powell and market and bay and taylor,The woman is carrying her child. The woman is carrying her child.,1
+woman and child on trolley car labeled Powell and market and bay and taylor,The woman is on a trolley. The woman is on a trolley.,0
+woman and child on trolley car labeled Powell and market and bay and taylor,The woman and child are on a subway train. The woman and child are on a subway train.,2
+"Two female medical professionals, one african american& one white, looking over paperwork in a hospital.",Coworkers at at a monthly safety meeting. Coworkers at at a monthly safety meeting.,1
+"Two female medical professionals, one african american& one white, looking over paperwork in a hospital.",Coworkers left work and are driving to lunch. Coworkers left work and are driving to lunch.,2
+"Two female medical professionals, one african american& one white, looking over paperwork in a hospital.",There are people at work. There are people at work.,0
+Two ladies are reading through binders.,Two ladies are studying for their final exam. Two ladies are studying for their final exam.,1
+Two ladies are reading through binders.,The girls are watching a movie. The girls are watching a movie.,2
+Two ladies are reading through binders.,Some women are reading. Some women are reading.,0
+A man in the distance is walking past a brick wall painted with words and graffiti.,A man walks away from a wall he has defaced. A man walks away from a wall he has defaced.,1
+A man in the distance is walking past a brick wall painted with words and graffiti.,A man sits and reads the graffiti on a wall. A man sits and reads the graffiti on a wall.,2
+A man in the distance is walking past a brick wall painted with words and graffiti.,Grafffiti on a brick wall. Grafffiti on a brick wall.,0
+A woman and a child holding on to the railing while on trolley.,The people are not holding onto anything. The people are not holding onto anything.,2
+A woman and a child holding on to the railing while on trolley.,The people are holding onto the rail. The people are holding onto the rail.,0
+A woman and a child holding on to the railing while on trolley.,The people are on a trolley in san Francisco. The people are on a trolley in san Francisco.,1
+A man in a striped polo shirt is pointing and smiling.,The man is swimming The man is swimming,2
+A man in a striped polo shirt is pointing and smiling.,The man is outside The man is outside,1
+A man in a striped polo shirt is pointing and smiling.,The man seems happy The man seems happy,0
+A guy performing a bicycle jump trick for an audience.,a bmx pro is doing a triple backflip a bmx pro is doing a triple backflip,1
+A guy performing a bicycle jump trick for an audience.,tony hawk is performing a skating trick tony hawk is performing a skating trick,2
+A guy performing a bicycle jump trick for an audience.,a guy is performing a bike trick a guy is performing a bike trick,0
+A gray-haired woman in a blue dress coat with snowflakes on it balances something on her head.,The woman is wearing a coat. The woman is wearing a coat.,0
+A gray-haired woman in a blue dress coat with snowflakes on it balances something on her head.,The woman loves her blonde hair. The woman loves her blonde hair.,2
+A gray-haired woman in a blue dress coat with snowflakes on it balances something on her head.,The woman is guarding herself from the snow. The woman is guarding herself from the snow.,1
+Two children play outside in a field.,A brother and sister chase each other in a field. A brother and sister chase each other in a field.,1
+Two children play outside in a field.,Kids are playing outdoors. Kids are playing outdoors.,0
+Two children play outside in a field.,Two children are reading at their desks. Two children are reading at their desks.,2
+"One man sits inside and plays the banjo, there are trees behind him outside.",A man runs outside. A man runs outside.,2
+"One man sits inside and plays the banjo, there are trees behind him outside.",A male sitting indoors. A male sitting indoors.,0
+"One man sits inside and plays the banjo, there are trees behind him outside.",A male plays a banjo while sitting on a sofa. A male plays a banjo while sitting on a sofa.,1
+"Two children, in colorful outfits, playing in a field with a big rock in the middle.",Don't play with rocks Don't play with rocks,2
+"Two children, in colorful outfits, playing in a field with a big rock in the middle.",Two kids are playing with a big rock in the field Two kids are playing with a big rock in the field,0
+"Two children, in colorful outfits, playing in a field with a big rock in the middle.",Two kids are playing with a big rock in the field with family Two kids are playing with a big rock in the field with family,1
+Two young girls are playing outside in a non-urban environment.,Some girls are running through an open field. Some girls are running through an open field.,1
+Two young girls are playing outside in a non-urban environment.,Two girls are playing outside. Two girls are playing outside.,0
+Two young girls are playing outside in a non-urban environment.,"Some girls are running on the sidewalk, next to some parked cars. Some girls are running on the sidewalk, next to some parked cars.",2
+"Two children in hats play in an open, rocky field.",The children are at home eating lunch. The children are at home eating lunch.,2
+"Two children in hats play in an open, rocky field.",The children are playing in a rocky field. The children are playing in a rocky field.,0
+"Two children in hats play in an open, rocky field.",The children are playing catch. The children are playing catch.,1
+A woman wearing a green and pink dress is dancing with someone wearing a blue top with white pants.,The dancing woman is on the grass. The dancing woman is on the grass.,1
+A woman wearing a green and pink dress is dancing with someone wearing a blue top with white pants.,The woman in green and pink is dancing. The woman in green and pink is dancing.,0
+A woman wearing a green and pink dress is dancing with someone wearing a blue top with white pants.,The dancing woman is alone in her bedroom. The dancing woman is alone in her bedroom.,2
+Man in gold pants looking at the camera.,Man looking at the camera. Man looking at the camera.,0
+Man in gold pants looking at the camera.,Man looking at something. Man looking at something.,1
+Man in gold pants looking at the camera.,Man is walking away to the hall. Man is walking away to the hall.,2
+A man in a gold skirt sits in front of the computer.,A man in a gold skirt sitting at his computer watching the computer screen. A man in a gold skirt sitting at his computer watching the computer screen.,0
+A man in a gold skirt sits in front of the computer.,A man in a golf skirt sitting at his computer typing to his friends online. A man in a golf skirt sitting at his computer typing to his friends online.,1
+A man in a gold skirt sits in front of the computer.,A man in blue pants sitting and watching the television. A man in blue pants sitting and watching the television.,2
+Man wearing black t-shirt sitting at a computer desk.,the man is working on the computer the man is working on the computer,0
+Man wearing black t-shirt sitting at a computer desk.,the man called off work and was at the zoo all day the man called off work and was at the zoo all day,2
+Man wearing black t-shirt sitting at a computer desk.,the man is doing a project for work the man is doing a project for work,1
+A bearded man in a black t-shirt sits in front of a desk holding a computer.,A man is standing in the rain. A man is standing in the rain.,2
+A bearded man in a black t-shirt sits in front of a desk holding a computer.,A man waiting with his computer. A man waiting with his computer.,0
+A bearded man in a black t-shirt sits in front of a desk holding a computer.,A man buying a new laptop. A man buying a new laptop.,1
+"A man in a gold foils skirt, sitting at a computer desk, looks at the camera with his hands raised to his face.",a man is looking at his webcam a man is looking at his webcam,0
+"A man in a gold foils skirt, sitting at a computer desk, looks at the camera with his hands raised to his face.",he is covering up his face he is covering up his face,1
+"A man in a gold foils skirt, sitting at a computer desk, looks at the camera with his hands raised to his face.",a man is sticking his tongue out a man is sticking his tongue out,2
+A young girl sitting at a table with a bowl on her head,A young girl has a bowl on her head A young girl has a bowl on her head,0
+A young girl sitting at a table with a bowl on her head,A toddler dumped her bowl of spaghetti on her head A toddler dumped her bowl of spaghetti on her head,1
+A young girl sitting at a table with a bowl on her head,A man is eating cereal in his car A man is eating cereal in his car,2
+A man dances with a fire baton at night.,the crowd cheers as he peforms the crowd cheers as he peforms,1
+A man dances with a fire baton at night.,the woman does a hula dance the woman does a hula dance,2
+A man dances with a fire baton at night.,the man is dancing the man is dancing,0
+A doctor checks the stomach of a toddler.,The toddler is getting a checkup. The toddler is getting a checkup.,0
+A doctor checks the stomach of a toddler.,The doctor is looking inside the toddler's mouth. The doctor is looking inside the toddler's mouth.,2
+A doctor checks the stomach of a toddler.,The toddle might be sick. The toddle might be sick.,1
+Young blond woman putting her foot into a water fountain,"A young woman wearing an evening gown, and holding her shoes in her hands, is dipping one foot into Buckingham Fountain in Chicago. A young woman wearing an evening gown, and holding her shoes in her hands, is dipping one foot into Buckingham Fountain in Chicago.",1
+Young blond woman putting her foot into a water fountain,A young blond woman is sitting down on a beach chair. A young blond woman is sitting down on a beach chair.,2
+Young blond woman putting her foot into a water fountain,A person is dipping her foot into water. A person is dipping her foot into water.,0
+A young woman tries to stick her foot in a fountain.,The woman is riding a train. The woman is riding a train.,2
+A young woman tries to stick her foot in a fountain.,A woman is near a fountain. A woman is near a fountain.,0
+A young woman tries to stick her foot in a fountain.,The woman has one foot in the air. The woman has one foot in the air.,0
+A woman in capri jeans crouches on the edge of a fountain with her left foot kicked out to touch the falling water.,A woman is walking in park A woman is walking in park,2
+A woman in capri jeans crouches on the edge of a fountain with her left foot kicked out to touch the falling water.,A woman is very eager to touch the water A woman is very eager to touch the water,1
+A woman in capri jeans crouches on the edge of a fountain with her left foot kicked out to touch the falling water.,A woman is like to touch the water in fountain A woman is like to touch the water in fountain,0
+Woman balancing on edge of fountain while sticking her toe in the water.,A woman stand on a fountain and dips her toes in. A woman stand on a fountain and dips her toes in.,0
+Woman balancing on edge of fountain while sticking her toe in the water.,A woman sits on the grassy ground. A woman sits on the grassy ground.,2
+Woman balancing on edge of fountain while sticking her toe in the water.,An old woman stands on a fountain and sticks her toes in. An old woman stands on a fountain and sticks her toes in.,1
+A couple strolls arm and arm and hand in hand down a city sidewalk.,The couple is outdoors. The couple is outdoors.,0
+A couple strolls arm and arm and hand in hand down a city sidewalk.,The couple is married. The couple is married.,1
+A couple strolls arm and arm and hand in hand down a city sidewalk.,The couple is having dinner at a restaurant. The couple is having dinner at a restaurant.,2
+A man stare at a passing couple while walking down the block.,A man stares at a passing couple. A man stares at a passing couple.,0
+A man stare at a passing couple while walking down the block.,The man is jealous of the couple. The man is jealous of the couple.,1
+A man stare at a passing couple while walking down the block.,The woman stares at a couple as they argue down the block. The woman stares at a couple as they argue down the block.,2
+"a couple are holding hands behind their backs while walking down a street, and the man has his arm around her shoulder.",couple walking home couple walking home,1
+"a couple are holding hands behind their backs while walking down a street, and the man has his arm around her shoulder.",couple walking couple walking,0
+"a couple are holding hands behind their backs while walking down a street, and the man has his arm around her shoulder.",bear in zoo bear in zoo,2
+A man and a woman are holding hands as they walk along a city sidewalk.,A married couple are fighting on the sidewalk. A married couple are fighting on the sidewalk.,2
+A man and a woman are holding hands as they walk along a city sidewalk.,A married couple are holding hands as they walk along the city sidewalk. A married couple are holding hands as they walk along the city sidewalk.,1
+A man and a woman are holding hands as they walk along a city sidewalk.,A man and a woman are holding hands. A man and a woman are holding hands.,0
+a man in red stands with his child at the beach.,A man wearing blue sleeping with his child in his lap inside his home. A man wearing blue sleeping with his child in his lap inside his home.,2
+a man in red stands with his child at the beach.,A man wearing red standing with his child at a beach overlooking the ocean. A man wearing red standing with his child at a beach overlooking the ocean.,1
+a man in red stands with his child at the beach.,A man wearing red standing with his child as they watch others build sand castles at the beach. A man wearing red standing with his child as they watch others build sand castles at the beach.,1
+New sport is being played to show appreciation to the kids who can not walk.,People are playing a sport in honor of crippled people. People are playing a sport in honor of crippled people.,0
+New sport is being played to show appreciation to the kids who can not walk.,People are playing football without gear. People are playing football without gear.,2
+New sport is being played to show appreciation to the kids who can not walk.,People a playing a sport to help fund a crippled people fund. People a playing a sport to help fund a crippled people fund.,1
+Two men in wheelchairs are reaching in the air for a basketball.,Two sad men in wheelchairs are reaching in the air for a basketball. Two sad men in wheelchairs are reaching in the air for a basketball.,1
+Two men in wheelchairs are reaching in the air for a basketball.,Two people in wheelchairs are reaching in the air for a basketball. Two people in wheelchairs are reaching in the air for a basketball.,0
+Two men in wheelchairs are reaching in the air for a basketball.,Two women in wheelchairs are reaching in the air for a basketball. Two women in wheelchairs are reaching in the air for a basketball.,2
+Three wheelchair basketball players wearing team uniforms are attempting to reach the descending basketball with other players in the background.,Some wheelchair basketball players playing the basketball match. Some wheelchair basketball players playing the basketball match.,1
+Three wheelchair basketball players wearing team uniforms are attempting to reach the descending basketball with other players in the background.,Three wheelchair basketball players playing basketball in field. Three wheelchair basketball players playing basketball in field.,0
+Three wheelchair basketball players wearing team uniforms are attempting to reach the descending basketball with other players in the background.,A peoples are taking coffee together at coffeshop. A peoples are taking coffee together at coffeshop.,2
+Four guys in wheelchairs on a basketball court two are trying to grab a basketball in midair.,Four guys are playing cards. Four guys are playing cards.,2
+Four guys in wheelchairs on a basketball court two are trying to grab a basketball in midair.,Four guys are playing basketball. Four guys are playing basketball.,0
+Four guys in wheelchairs on a basketball court two are trying to grab a basketball in midair.,The four players are handicapped. The four players are handicapped.,1
+Three dogs in different shades of brown and white biting and licking each other.,the dogs are fighting the dogs are fighting,2
+Three dogs in different shades of brown and white biting and licking each other.,there are three dogs there are three dogs,0
+Three dogs in different shades of brown and white biting and licking each other.,the dog playing the dog playing,1
+"Two dogs playfully bite a third dog, which has its tongue sticking out.","Two puppies bite their mother, while she pants. Two puppies bite their mother, while she pants.",1
+"Two dogs playfully bite a third dog, which has its tongue sticking out.",Two dogs are sleeping while a third eats its food. Two dogs are sleeping while a third eats its food.,2
+"Two dogs playfully bite a third dog, which has its tongue sticking out.",A pair of dogs tease a third with nibbles. A pair of dogs tease a third with nibbles.,0
+Three small puppies bite and play together in the grass.,The puppies are sleeping in a basket. The puppies are sleeping in a basket.,2
+Three small puppies bite and play together in the grass.,They are playing at the dog park. They are playing at the dog park.,1
+Three small puppies bite and play together in the grass.,Three puppies are playing outside. Three puppies are playing outside.,0
+Two dogs biting another dog in a field.,dogs bitting dogs bitting,1
+Two dogs biting another dog in a field.,dogs attacking another dog dogs attacking another dog,0
+Two dogs biting another dog in a field.,dog sitting in filed dog sitting in filed,2
+Tourists waiting at a train stop.,Tourist walking around an art museum. Tourist walking around an art museum.,2
+Tourists waiting at a train stop.,A group of tourist waiting for a train outside. A group of tourist waiting for a train outside.,1
+Tourists waiting at a train stop.,A group of tourist waiting for a train at a train station. A group of tourist waiting for a train at a train station.,0
+A doctor in blue scrubs is performing an operation assisted by two men and a woman.,a old man was talking a old man was talking,0
+A doctor in blue scrubs is performing an operation assisted by two men and a woman.,the boys were angry the boys were angry,2
+A doctor in blue scrubs is performing an operation assisted by two men and a woman.,the child was happy the child was happy,1
+A woman with a black jacket walks past an outdoor movie poster.,A female is leaving a movie theatre. A female is leaving a movie theatre.,1
+A woman with a black jacket walks past an outdoor movie poster.,A woman walking outside. A woman walking outside.,0
+A woman with a black jacket walks past an outdoor movie poster.,A woman is cleaning up. A woman is cleaning up.,2
+A man in an elf hat holding a white umbrella is standing on the sidewalk with two other men.,A man stands. A man stands.,0
+A man in an elf hat holding a white umbrella is standing on the sidewalk with two other men.,"My love's like a red, red wig. My love's like a red, red wig.",2
+A man in an elf hat holding a white umbrella is standing on the sidewalk with two other men.,Others are nearby. Others are nearby.,1
+Indian lady and a guy in a blue suit dancing in the sunlight.,A woman eats a pickle. A woman eats a pickle.,2
+Indian lady and a guy in a blue suit dancing in the sunlight.,Two people dancing outdoors. Two people dancing outdoors.,0
+Indian lady and a guy in a blue suit dancing in the sunlight.,Two people dancing while a band performs. Two people dancing while a band performs.,1
+Two older men are talking.,Two people are having a conversation. Two people are having a conversation.,0
+Two older men are talking.,Men are exchanging ideas. Men are exchanging ideas.,1
+Two older men are talking.,A crowd is talking over each other. A crowd is talking over each other.,2
+A mountain biker jumping a slope outdoors in a forest area.,They are going fast. They are going fast.,1
+A mountain biker jumping a slope outdoors in a forest area.,A biker is doing jumps by trees. A biker is doing jumps by trees.,0
+A mountain biker jumping a slope outdoors in a forest area.,They aren't on bikes. They aren't on bikes.,2
+A mountain biker jumping a slope outdoors in a forest area.,A person is trying to learn new tricks on their bike. A person is trying to learn new tricks on their bike.,1
+A mountain biker jumping a slope outdoors in a forest area.,The biker is jumping into a hole. The biker is jumping into a hole.,0
+A mountain biker jumping a slope outdoors in a forest area.,A person rides a bike outdoors. A person rides a bike outdoors.,0
+A mountain biker jumping a slope outdoors in a forest area.,The biker can be a man or a woman The biker can be a man or a woman,1
+A mountain biker jumping a slope outdoors in a forest area.,There's a biker There's a biker,0
+A mountain biker jumping a slope outdoors in a forest area.,A biker is doing jumps in a wooded area. A biker is doing jumps in a wooded area.,1
+A mountain biker jumping a slope outdoors in a forest area.,The biker is using a small bike to jump a hole. The biker is using a small bike to jump a hole.,1
+A mountain biker jumping a slope outdoors in a forest area.,They are avoiding trees. They are avoiding trees.,0
+A mountain biker jumping a slope outdoors in a forest area.,The mountain biker is going on a desert trail. The mountain biker is going on a desert trail.,2
+A mountain biker jumping a slope outdoors in a forest area.,The biker is trying to jump over a volcano. The biker is trying to jump over a volcano.,2
+A mountain biker jumping a slope outdoors in a forest area.,He's indoors He's indoors,2
+A mountain biker jumping a slope outdoors in a forest area.,A person is riding in a bobsled. A person is riding in a bobsled.,2
+Two older men in winter coats talking outside of a shop with a grassy lawn covered in a light coat of snow in front of it.,The old men are discussing the weather. The old men are discussing the weather.,1
+Two older men in winter coats talking outside of a shop with a grassy lawn covered in a light coat of snow in front of it.,Two old men in winter coats talk outside. Two old men in winter coats talk outside.,0
+Two older men in winter coats talking outside of a shop with a grassy lawn covered in a light coat of snow in front of it.,The old men are wearing raincoats. The old men are wearing raincoats.,2
+"Two elderly men having a conversation, snow covered grass in the background.",The men are drinking coffee and having some cookies The men are drinking coffee and having some cookies,2
+"Two elderly men having a conversation, snow covered grass in the background.",The men are sleeping The men are sleeping,2
+"Two elderly men having a conversation, snow covered grass in the background.",There are two men outside in this picture There are two men outside in this picture,0
+Two men are standing outside and snow is on the ground.,Two men preparing for a snowball fight. Two men preparing for a snowball fight.,1
+Two men are standing outside and snow is on the ground.,People are near snow. People are near snow.,0
+Two men are standing outside and snow is on the ground.,Men making snow angels. Men making snow angels.,2
+Two older men in coats are standing outside.,These men never wore coats. These men never wore coats.,2
+Two older men in coats are standing outside.,They are outside wearing coats. They are outside wearing coats.,0
+Two older men in coats are standing outside.,"It is cold, but they went outside anyway. It is cold, but they went outside anyway.",1
+A gentleman in a purple scarf and hat is looking at money while holding an accordion.,A woman is brushing her hair in her bedroom. A woman is brushing her hair in her bedroom.,2
+A gentleman in a purple scarf and hat is looking at money while holding an accordion.,A man is holding an accordian. A man is holding an accordian.,0
+A gentleman in a purple scarf and hat is looking at money while holding an accordion.,A man is looking at a hundreds of dollars. A man is looking at a hundreds of dollars.,1
+BMX biker jumps over a ravine.,ravine jumping is never easy ravine jumping is never easy,1
+BMX biker jumps over a ravine.,there is a bmx biker who is perfect in ravine jumping there is a bmx biker who is perfect in ravine jumping,0
+BMX biker jumps over a ravine.,anybody can do ravine jumping anybody can do ravine jumping,2
+A white bike is tied to a street sign.,the bike is tied to a stop sign the bike is tied to a stop sign,1
+A white bike is tied to a street sign.,the car is parked at the sign the car is parked at the sign,2
+A white bike is tied to a street sign.,the bike is tied to a sign the bike is tied to a sign,0
+A white bike is leaning against a post.,A bike is on the ground about to be reparied A bike is on the ground about to be reparied,2
+A white bike is leaning against a post.,A bike with a flat tire is not being ridden A bike with a flat tire is not being ridden,1
+A white bike is leaning against a post.,A bike it outside A bike it outside,0
+The boy locked the cycle and went away.,A boy riding a bike. A boy riding a bike.,2
+The boy locked the cycle and went away.,A boy walking away. A boy walking away.,0
+The boy locked the cycle and went away.,A bicycle chained up with a boy walking away. A bicycle chained up with a boy walking away.,1
+A crowded city during daytime.,A city filled with people in the middle of the daytime. A city filled with people in the middle of the daytime.,0
+A crowded city during daytime.,A abandoned city at the edge of the world. A abandoned city at the edge of the world.,2
+A crowded city during daytime.,A crowded city filled with many cars on a warm summer day. A crowded city filled with many cars on a warm summer day.,1
+People walking around in a big city.,People are walking to the park. People are walking to the park.,1
+People walking around in a big city.,People are outside. People are outside.,0
+People walking around in a big city.,The people are asleep. The people are asleep.,2
+A busy city that looks like New York City.,The city has a lot of people in it. The city has a lot of people in it.,0
+A busy city that looks like New York City.,The city is very large. The city is very large.,1
+A busy city that looks like New York City.,"The city looks like Lawrence, Kansas. The city looks like Lawrence, Kansas.",2
+"A view of buildings and people walking across the streets in Times Square, New York City.",There is a city. There is a city.,0
+"A view of buildings and people walking across the streets in Times Square, New York City.",The field of poppies is perfectly still. The field of poppies is perfectly still.,2
+"A view of buildings and people walking across the streets in Times Square, New York City.",Times Square in New York City is full of people and bustling with noise and activity. Times Square in New York City is full of people and bustling with noise and activity.,1
+A woman is making a clay pot.,A man is painting a painting. A man is painting a painting.,2
+A woman is making a clay pot.,A woman is making a flower pot. A woman is making a flower pot.,1
+A woman is making a clay pot.,An artist is sculpting with clay. An artist is sculpting with clay.,0
+A barber waiting for customers.,A barber is inside his shop standing in the front. A barber is inside his shop standing in the front.,1
+A barber waiting for customers.,A barber is at work. A barber is at work.,0
+A barber waiting for customers.,The barber is closing the shop at the end of the day. The barber is closing the shop at the end of the day.,2
+A man sitting in a barber shop.,There is an individual waiting indoors. There is an individual waiting indoors.,0
+A man sitting in a barber shop.,A man is waiting to get his haircut. A man is waiting to get his haircut.,1
+A man sitting in a barber shop.,A man is brushing his teeth. A man is brushing his teeth.,2
+A woman preparing to glaze a bowl.,A woman happily preparing to glaze A woman happily preparing to glaze,1
+A woman preparing to glaze a bowl.,A woman not preparing to glaze A woman not preparing to glaze,2
+A woman preparing to glaze a bowl.,A woman preparing to glaze A woman preparing to glaze,0
+"A woman wearing an apron inspects a large pot on a table filled with cups, bowls, pots and baskets of assorted size.",A woman wearing gloves is washing dishes. A woman wearing gloves is washing dishes.,2
+"A woman wearing an apron inspects a large pot on a table filled with cups, bowls, pots and baskets of assorted size.","A woman wearing a red apron inspects a large black pot on a table filled with cups, bowls, pots and baskets of assorted size. A woman wearing a red apron inspects a large black pot on a table filled with cups, bowls, pots and baskets of assorted size.",1
+"A woman wearing an apron inspects a large pot on a table filled with cups, bowls, pots and baskets of assorted size.",A woman is wearing an apron. A woman is wearing an apron.,0
+A model posing to look as if she's a real female soccer player.,A man is modeling for a cooking show. A man is modeling for a cooking show.,2
+A model posing to look as if she's a real female soccer player.,A woman is trying to model for a sports magazine. A woman is trying to model for a sports magazine.,1
+A model posing to look as if she's a real female soccer player.,A model is doing a shoot. A model is doing a shoot.,0
+Firemen emerge from a subway station.,Firemen walking outside Firemen walking outside,0
+Firemen emerge from a subway station.,The station is empty The station is empty,2
+Firemen emerge from a subway station.,The firemen are not working The firemen are not working,1
+Exhausted looking firemen are walking.,Firemen are walking. Firemen are walking.,0
+Exhausted looking firemen are walking.,Exhausted looking firemen are walking back to the fire station to rest. Exhausted looking firemen are walking back to the fire station to rest.,1
+Exhausted looking firemen are walking.,Determined looking firemen are running into a burning building. Determined looking firemen are running into a burning building.,2
+"Three firefighters, the nearest firefighter is holding a helmet in his left hand.",Three man are holding axes in their left hands. Three man are holding axes in their left hands.,2
+"Three firefighters, the nearest firefighter is holding a helmet in his left hand.",The three firefighters are discussing sports. The three firefighters are discussing sports.,1
+"Three firefighters, the nearest firefighter is holding a helmet in his left hand.",The firemen are gathered one is holding his helmet. The firemen are gathered one is holding his helmet.,0
+A man walking along side a clean up crew.,The man directed the clean up crew where to go. The man directed the clean up crew where to go.,1
+A man walking along side a clean up crew.,The woman jogged alongside the crew. The woman jogged alongside the crew.,2
+A man walking along side a clean up crew.,The man walked alongside the crew. The man walked alongside the crew.,0
+A little boy swims underwater.,A boy floats on top of water. A boy floats on top of water.,2
+A little boy swims underwater.,A little boy swimming at a beach. A little boy swimming at a beach.,1
+A little boy swims underwater.,A child swimming. A child swimming.,0
+A driver is racing his Ford vehicle on a gravel track.,A man has parked his truck. A man has parked his truck.,2
+A driver is racing his Ford vehicle on a gravel track.,A Ford is being driven on a track. A Ford is being driven on a track.,0
+A driver is racing his Ford vehicle on a gravel track.,A man is racing his truck. A man is racing his truck.,1
+Three guys and a girl are all jumping in a pool together.,The people are all climbing out of the water. The people are all climbing out of the water.,2
+Three guys and a girl are all jumping in a pool together.,The people are all jumping into a body of water. The people are all jumping into a body of water.,0
+Three guys and a girl are all jumping in a pool together.,The people are all friends. The people are all friends.,1
+"A little boy underwater in a pool, holding a plastic dinosaur.",The toy is waterproof. The toy is waterproof.,1
+"A little boy underwater in a pool, holding a plastic dinosaur.",The Lone Ranger swims again. The Lone Ranger swims again.,2
+"A little boy underwater in a pool, holding a plastic dinosaur.",Small boy in pool holds toy. Small boy in pool holds toy.,0
+A little boy swimming underwater with a toy in his hand.,A little boy is chasing a dog. A little boy is chasing a dog.,2
+A little boy swimming underwater with a toy in his hand.,A little boy is holding a pool ring. A little boy is holding a pool ring.,1
+A little boy swimming underwater with a toy in his hand.,A little boy is underwater. A little boy is underwater.,0
+A man wearing a white shire shirt and hate is riding a bucking horse in a rodeo.,A man is riding in his first rodeo. A man is riding in his first rodeo.,1
+A man wearing a white shire shirt and hate is riding a bucking horse in a rodeo.,A rodeo clown chases a bull. A rodeo clown chases a bull.,2
+A man wearing a white shire shirt and hate is riding a bucking horse in a rodeo.,A man is being bucked on a horse. A man is being bucked on a horse.,0
+"A saddle bronc rider gets lifted out of the saddle, but keeps his grip during his ride.",The man rides an animal. The man rides an animal.,0
+"A saddle bronc rider gets lifted out of the saddle, but keeps his grip during his ride.",The man is trying not to fall. The man is trying not to fall.,1
+"A saddle bronc rider gets lifted out of the saddle, but keeps his grip during his ride.",The man is riding a motorcycle. The man is riding a motorcycle.,2
+a woman with a straw hat working on a strange machine with coconuts at her side.,A woman is using a machine to make coconut milk. A woman is using a machine to make coconut milk.,1
+a woman with a straw hat working on a strange machine with coconuts at her side.,A woman is sitting on the couch. A woman is sitting on the couch.,2
+a woman with a straw hat working on a strange machine with coconuts at her side.,A woman is at a machine. A woman is at a machine.,0
+A man wearing a rice hat is shucking corn using a corn shucker and is surrounded by trees.,The man is boiling a pot of corn. The man is boiling a pot of corn.,2
+A man wearing a rice hat is shucking corn using a corn shucker and is surrounded by trees.,There is a person processing vegetables. There is a person processing vegetables.,0
+A man wearing a rice hat is shucking corn using a corn shucker and is surrounded by trees.,A man is shucking a large pile of corn. A man is shucking a large pile of corn.,1
+a woman wearing a Chinese straw hat operating some sort of stainless steel machine in what appears to be a park.,The woman is making jewelry at the park. The woman is making jewelry at the park.,1
+a woman wearing a Chinese straw hat operating some sort of stainless steel machine in what appears to be a park.,The woman has a small child trapped in the machine who sews clothes. The woman has a small child trapped in the machine who sews clothes.,2
+a woman wearing a Chinese straw hat operating some sort of stainless steel machine in what appears to be a park.,The woman is outdoors with a machine. The woman is outdoors with a machine.,0
+A woman on the side of a street is making food on her cart.,A child is wearing a bandana. A child is wearing a bandana.,2
+A woman on the side of a street is making food on her cart.,A person is cooking mexican food. A person is cooking mexican food.,1
+A woman on the side of a street is making food on her cart.,A person is cooking. A person is cooking.,0
+A man in blue shorts and without a shirt is jogging down the road while listening to his iPod.,The man is wearing a blue shirt. The man is wearing a blue shirt.,2
+A man in blue shorts and without a shirt is jogging down the road while listening to his iPod.,The man is running. The man is running.,0
+A man in blue shorts and without a shirt is jogging down the road while listening to his iPod.,The man is wearing headphones. The man is wearing headphones.,1
+Women exercising one woman has a green mat and black outfit on.,The women are exercising. The women are exercising.,0
+Women exercising one woman has a green mat and black outfit on.,The women are both dressing in green. The women are both dressing in green.,2
+Women exercising one woman has a green mat and black outfit on.,The women are doing yoga. The women are doing yoga.,1
+Students practicing yoga in a class setting.,The students are taking a beginners' yoga class. The students are taking a beginners' yoga class.,1
+Students practicing yoga in a class setting.,The students solve equations on the board. The students solve equations on the board.,2
+Students practicing yoga in a class setting.,A yoga class is in progress. A yoga class is in progress.,0
+People are stretching on yoga mats.,They stretched on yoga mats outside. They stretched on yoga mats outside.,1
+People are stretching on yoga mats.,The people stretched on yoga mats. The people stretched on yoga mats.,0
+People are stretching on yoga mats.,They stretched on bikes. They stretched on bikes.,2
+A group of people are doing yoga.,The people are doing yoga The people are doing yoga,0
+A group of people are doing yoga.,The people are working out The people are working out,1
+A group of people are doing yoga.,The people are sleep. The people are sleep.,2
+Motorcyclist performing while two men watch.,Two women are walking with strollers. Two women are walking with strollers.,2
+Motorcyclist performing while two men watch.,Men watching motorcyclist. Men watching motorcyclist.,0
+Motorcyclist performing while two men watch.,Motorcylist performing in annual race. Motorcylist performing in annual race.,1
+The young man is waiting with others on the sidewalk.,The girls are climbing a tree The girls are climbing a tree,2
+The young man is waiting with others on the sidewalk.,There is a young person talking with others near the bustop There is a young person talking with others near the bustop,1
+The young man is waiting with others on the sidewalk.,there is a group of people waiting outside there is a group of people waiting outside,0
+Two people pose for the camera.,People pose for a picture. People pose for a picture.,0
+Two people pose for the camera.,People pose for a family picture. People pose for a family picture.,1
+Two people pose for the camera.,Two people are yelling. Two people are yelling.,2
+A man is sleeping on the grass.,The man is laying down to sleep The man is laying down to sleep,0
+A man is sleeping on the grass.,The man is checking into a 4 star hotel The man is checking into a 4 star hotel,2
+A man is sleeping on the grass.,The man is sleeping on the grass because he is homeless The man is sleeping on the grass because he is homeless,1
+A white and brown dog is leaping through the air.,The white and brown dog is in the air. The white and brown dog is in the air.,0
+A white and brown dog is leaping through the air.,The dog is taking a nap. The dog is taking a nap.,2
+A white and brown dog is leaping through the air.,The dog is catching a frisbee. The dog is catching a frisbee.,1
+A row of legs and black boots with a boy sitting at the end of the row.,A young boy eats a sandwich. A young boy eats a sandwich.,2
+A row of legs and black boots with a boy sitting at the end of the row.,A young boy sits on the ground in a family picture. A young boy sits on the ground in a family picture.,1
+A row of legs and black boots with a boy sitting at the end of the row.,A boy sits at peoples feet. A boy sits at peoples feet.,0
+A man in blue lies on a mostly-barren patch of grass while small groups of people congregate in the distance.,A man is wearing blue. A man is wearing blue.,0
+A man in blue lies on a mostly-barren patch of grass while small groups of people congregate in the distance.,The man is tired. The man is tired.,1
+A man in blue lies on a mostly-barren patch of grass while small groups of people congregate in the distance.,The man is drinking a beer in a pub. The man is drinking a beer in a pub.,2
+Various people hanging around outside of a building.,The people are inside playing soccer. The people are inside playing soccer.,2
+Various people hanging around outside of a building.,The people are on lunch break. The people are on lunch break.,1
+Various people hanging around outside of a building.,There are a group of people are standing outside. There are a group of people are standing outside.,0
+A little girl follows two guys with umbrellas down a path.,The people are outside. The people are outside.,0
+A little girl follows two guys with umbrellas down a path.,The little girl is riding a horse. The little girl is riding a horse.,2
+A little girl follows two guys with umbrellas down a path.,The people are walking home in the rain. The people are walking home in the rain.,1
+A lady is on the floor packing a suitcase.,She is packing. She is packing.,0
+A lady is on the floor packing a suitcase.,The girl is going on a trip. The girl is going on a trip.,1
+A lady is on the floor packing a suitcase.,The woman is standing up unpacking. The woman is standing up unpacking.,2
+Little girl in a blue and yellow plaid outfit and blue hat is running along the trail.,A girl is running on the trail. A girl is running on the trail.,0
+Little girl in a blue and yellow plaid outfit and blue hat is running along the trail.,A boy is hiking on the trail. A boy is hiking on the trail.,2
+Little girl in a blue and yellow plaid outfit and blue hat is running along the trail.,A girl is running downhill on the trail. A girl is running downhill on the trail.,1
+"Little girl walking along a dirt, rock, and grass path wearing a blue hat many steps behind two people wearing backpacks and holding umbrellas.",3 people are walking along a path. 3 people are walking along a path.,0
+"Little girl walking along a dirt, rock, and grass path wearing a blue hat many steps behind two people wearing backpacks and holding umbrellas.",2 people are on the path. 2 people are on the path.,2
+"Little girl walking along a dirt, rock, and grass path wearing a blue hat many steps behind two people wearing backpacks and holding umbrellas.",three people are walking along a path trying to get home before the storm hits. three people are walking along a path trying to get home before the storm hits.,1
+The blond woman is searching for medical supplies in a suitcase.,A blonde woman looks for things in a suitcase. A blonde woman looks for things in a suitcase.,0
+The blond woman is searching for medical supplies in a suitcase.,A blonde woman looks for medical supplies for work in a suitcase. A blonde woman looks for medical supplies for work in a suitcase.,1
+The blond woman is searching for medical supplies in a suitcase.,A brunette woman checks her suitcase before boarding a plane. A brunette woman checks her suitcase before boarding a plane.,2
+Stacks of neatly folded clothing cover most of this floor while a woman with a beige shirt and jeans busily fills a suitcase.,A woman is packing for a trip. A woman is packing for a trip.,1
+Stacks of neatly folded clothing cover most of this floor while a woman with a beige shirt and jeans busily fills a suitcase.,A man is packing his golf clubs. A man is packing his golf clubs.,2
+Stacks of neatly folded clothing cover most of this floor while a woman with a beige shirt and jeans busily fills a suitcase.,A woman is filling a suitcase. A woman is filling a suitcase.,0
+A young woman packs belongings into a black suitcase.,A young man packs belongings into a black trash bag. A young man packs belongings into a black trash bag.,2
+A young woman packs belongings into a black suitcase.,A young woman distributes belongings into a black box. A young woman distributes belongings into a black box.,1
+A young woman packs belongings into a black suitcase.,A young woman packs belongings into a black luggage carrier. A young woman packs belongings into a black luggage carrier.,0
+People going for a long walk to the mountains.,The people are walking in a big group. The people are walking in a big group.,1
+People going for a long walk to the mountains.,The people are running towards the mountains. The people are running towards the mountains.,2
+People going for a long walk to the mountains.,The people are walking outdoors. The people are walking outdoors.,0
+A man resting on a street.,A man sitting on a street. A man sitting on a street.,1
+A man resting on a street.,A man jogging on the street. A man jogging on the street.,2
+A man resting on a street.,A man resting on a street. A man resting on a street.,0
+A woman in costume is marching with a large drum.,Highschool homcoming marching band is marching. Highschool homcoming marching band is marching.,1
+A woman in costume is marching with a large drum.,The drum lady drive a bus. The drum lady drive a bus.,2
+A woman in costume is marching with a large drum.,She plays in a band. She plays in a band.,0
+"A man carrying a load of fresh direct boxes on car with wheels in the city streets, as a woman walks towards him.",Someone is toting packages in an urban setting. Someone is toting packages in an urban setting.,0
+"A man carrying a load of fresh direct boxes on car with wheels in the city streets, as a woman walks towards him.",A young lad delivers groceries by bicycle in the city. A young lad delivers groceries by bicycle in the city.,2
+"A man carrying a load of fresh direct boxes on car with wheels in the city streets, as a woman walks towards him.",A man delivers groceries to shut-in seniors in the city. A man delivers groceries to shut-in seniors in the city.,1
+a motorcyclist does a nose wheelie.,A man doing a wheelie A man doing a wheelie,0
+a motorcyclist does a nose wheelie.,A man standing beside a crashed motorcycle A man standing beside a crashed motorcycle,2
+a motorcyclist does a nose wheelie.,A motorcyclist doing a wheelie A motorcyclist doing a wheelie,0
+A man sitting on a scooter on the curb.,A man is waiting for someone to fix his scooter. A man is waiting for someone to fix his scooter.,1
+A man sitting on a scooter on the curb.,"A man is outside, near the street. A man is outside, near the street.",0
+A man sitting on a scooter on the curb.,A man is relaxing at the bar. A man is relaxing at the bar.,2
+A man stopping on the sidewalk with his bike to have a smoke.,The man is playing basketball. The man is playing basketball.,2
+A man stopping on the sidewalk with his bike to have a smoke.,The man is standing. The man is standing.,0
+A man stopping on the sidewalk with his bike to have a smoke.,The man is lighting a cigarette. The man is lighting a cigarette.,1
+A man is sitting on a motorcycle on the sidewalk.,A man is sitting on a motorcycle. A man is sitting on a motorcycle.,0
+A man is sitting on a motorcycle on the sidewalk.,A man is sitting on a motorcycle and drives away. A man is sitting on a motorcycle and drives away.,1
+A man is sitting on a motorcycle on the sidewalk.,A man in black is playing with his cat on Sunday. A man in black is playing with his cat on Sunday.,2
+Man smokes while sitting on a parked scooter.,A man smokes a cigarette while sitting on his scooter. A man smokes a cigarette while sitting on his scooter.,1
+Man smokes while sitting on a parked scooter.,The man drinks a beer while sitting in his car. The man drinks a beer while sitting in his car.,2
+Man smokes while sitting on a parked scooter.,The man is smoking something while sitting on the scooter. The man is smoking something while sitting on the scooter.,0
+Man on the sidewalk sitting on a motorcycle.,A man on the motorcycle A man on the motorcycle,1
+Man on the sidewalk sitting on a motorcycle.,Man sitting on a motorcycle on the sidewalk Man sitting on a motorcycle on the sidewalk,0
+Man on the sidewalk sitting on a motorcycle.,A man driving his car A man driving his car,2
+"A couple, wearing black, burgundy, and white, dance.",The woman danced alone. The woman danced alone.,2
+"A couple, wearing black, burgundy, and white, dance.",The couple danced. The couple danced.,0
+"A couple, wearing black, burgundy, and white, dance.",The couple danced in the competition. The couple danced in the competition.,1
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People are running for a charity. People are running for a charity.,1
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,the runners waited to start the olympic race the runners waited to start the olympic race,1
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People wearing pink and purple get ready for a race People wearing pink and purple get ready for a race,2
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People wearing their bright team uniforms await the pistol that signifies the start of their race People wearing their bright team uniforms await the pistol that signifies the start of their race,1
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People are having a cook off. People are having a cook off.,2
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People in orange vests await the beginning of a race to win first prize. People in orange vests await the beginning of a race to win first prize.,1
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People wait for a race to begin. People wait for a race to begin.,0
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,The people waiting are part of the race. The people waiting are part of the race.,1
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,the athlete backflips off of a mountain the athlete backflips off of a mountain,2
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People in orange vests are racing in a race that has started. People in orange vests are racing in a race that has started.,2
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People in orange vests await the beginning of a race. People in orange vests await the beginning of a race.,0
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People are wearing colorful clothes People are wearing colorful clothes,0
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People are racing backwards through Hell. People are racing backwards through Hell.,2
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,People are waiting for a race. People are waiting for a race.,0
+People in orange vests and blue pants with a yellow stripe at the bottom await the beginning of a race.,the runners waited to start the race the runners waited to start the race,0
+A young man and young lady dancing on a carpeted floor with a picture from the movie Toy Story on a big screen in the background.,They movie is very loud in the background. They movie is very loud in the background.,1
+A young man and young lady dancing on a carpeted floor with a picture from the movie Toy Story on a big screen in the background.,The people dance on the sidewalk. The people dance on the sidewalk.,2
+A young man and young lady dancing on a carpeted floor with a picture from the movie Toy Story on a big screen in the background.,The two people are dancing. The two people are dancing.,0
+The skier is wearing a yellow jumpsuit and sliding across a yellow rail.,The skier is in a competition. The skier is in a competition.,1
+The skier is wearing a yellow jumpsuit and sliding across a yellow rail.,The skier is wearing a jumpsuit. The skier is wearing a jumpsuit.,0
+The skier is wearing a yellow jumpsuit and sliding across a yellow rail.,The skateboard is wearing a blue jumpsuit. The skateboard is wearing a blue jumpsuit.,2
+A track event held by J.P. Morgan Chase with security.,J.P. Morgan Chase held a track event. J.P. Morgan Chase held a track event.,0
+A track event held by J.P. Morgan Chase with security.,The track event has no security. The track event has no security.,2
+A track event held by J.P. Morgan Chase with security.,Security guards are searching for weapons at a track event. Security guards are searching for weapons at a track event.,1
+"Two people dancing, wearing dance costumes.",The couple are dancing together. The couple are dancing together.,1
+"Two people dancing, wearing dance costumes.",The people are moving. The people are moving.,0
+"Two people dancing, wearing dance costumes.",Two people are eating dinner. Two people are eating dinner.,2
+An english farmer with a horse pulled wagon.,There is a farmer laying down outdoors There is a farmer laying down outdoors,2
+An english farmer with a horse pulled wagon.,There is a farmer with a horse wagon There is a farmer with a horse wagon,0
+An english farmer with a horse pulled wagon.,There is a farmer riding a wagon outdoors There is a farmer riding a wagon outdoors,1
+Children's soccer game being played while the sun sets in the background.,Old men playing soccer while the sun sets. Old men playing soccer while the sun sets.,2
+Children's soccer game being played while the sun sets in the background.,Children playing soccer while the sun sets. Children playing soccer while the sun sets.,0
+Children's soccer game being played while the sun sets in the background.,Girls playing soccer while the sun sets. Girls playing soccer while the sun sets.,1
+A soccer game played by a blue team and a red team on a perfectly manicured field at dusk.,No one is playing soccer. No one is playing soccer.,2
+A soccer game played by a blue team and a red team on a perfectly manicured field at dusk.,People are playing soccer for a competition. People are playing soccer for a competition.,1
+A soccer game played by a blue team and a red team on a perfectly manicured field at dusk.,People are playing soccer. People are playing soccer.,0
+Two soccer teams are competing on a soccer field.,Two skilled soccer teams are competing against one another for the championship. Two skilled soccer teams are competing against one another for the championship.,1
+Two soccer teams are competing on a soccer field.,There is a soccer game. There is a soccer game.,0
+Two soccer teams are competing on a soccer field.,Two baseball teams are competing. Two baseball teams are competing.,2
+Soccer teams play on a field as the sun sets behind a line of trees.,Soccer teams are competing outdoors. Soccer teams are competing outdoors.,0
+Soccer teams play on a field as the sun sets behind a line of trees.,A football team is playing hockey against a soccer team in an ice rink. A football team is playing hockey against a soccer team in an ice rink.,2
+Soccer teams play on a field as the sun sets behind a line of trees.,A soccer team is about to win a soccer game. A soccer team is about to win a soccer game.,1
+two men serving preparing food.,Two men riding bikes. Two men riding bikes.,2
+two men serving preparing food.,Two men wearing aprons. Two men wearing aprons.,1
+two men serving preparing food.,Two men serving food. Two men serving food.,0
+A soccer game occurring at sunset.,a sports game is being played a sports game is being played,0
+A soccer game occurring at sunset.,the world cup is being played the world cup is being played,1
+A soccer game occurring at sunset.,a basketball game is ocurring at sunrise a basketball game is ocurring at sunrise,2
+White small child wearing a brown and gray striped hoodie plays at park.,A small child is playing video games in his bedroom. A small child is playing video games in his bedroom.,2
+White small child wearing a brown and gray striped hoodie plays at park.,A child plays at a park. A child plays at a park.,0
+White small child wearing a brown and gray striped hoodie plays at park.,A small boy is playing tag at a park with his friends. A small boy is playing tag at a park with his friends.,1
+A little boy in brown pants is playing on ropes at a park.,There is a little boy in brown pants. There is a little boy in brown pants.,0
+A little boy in brown pants is playing on ropes at a park.,There is a little girl in red pants. There is a little girl in red pants.,2
+A little boy in brown pants is playing on ropes at a park.,There is a little boy who likes the color brown. There is a little boy who likes the color brown.,1
+Toddler in striped sweatshirt plays on rope on playground.,A child takes a break from school. A child takes a break from school.,1
+Toddler in striped sweatshirt plays on rope on playground.,A child is napping. A child is napping.,2
+Toddler in striped sweatshirt plays on rope on playground.,A child plays on a playground. A child plays on a playground.,0
+A woman wearing a pink hat is looking at a pink car with the truck open.,The woman is wondering if she left her car open. The woman is wondering if she left her car open.,1
+A woman wearing a pink hat is looking at a pink car with the truck open.,The woman is wearing a grocery bag to her car. The woman is wearing a grocery bag to her car.,2
+A man in a blue shirt is looking up.,A man in a blue shirt is looking up at a dog. A man in a blue shirt is looking up at a dog.,1
+A man in a blue shirt is looking up.,A man in a red shirt is looking up. A man in a red shirt is looking up.,2
+A man in a blue shirt is looking up.,A person looks up. A person looks up.,0
+Three girls on an amusement ride enjoying themselves.,There are three girls There are three girls,0
+Three girls on an amusement ride enjoying themselves.,The girls are at home The girls are at home,2
+Three girls on an amusement ride enjoying themselves.,The girls like amusment parks The girls like amusment parks,1
+Woman at Walmart check-out having her groceries bagged by an employee.,The woman bought unhealthy food The woman bought unhealthy food,1
+Woman at Walmart check-out having her groceries bagged by an employee.,The woman is in Target The woman is in Target,2
+Woman at Walmart check-out having her groceries bagged by an employee.,A woman is in Walmart A woman is in Walmart,0
+Brown dog treads through water.,Brown dog is sleeping next to the water Brown dog is sleeping next to the water,2
+Brown dog treads through water.,Brown dog treads through water as he is soaked in water Brown dog treads through water as he is soaked in water,0
+Brown dog treads through water.,Brown dog treads through water as he swims towards shore Brown dog treads through water as he swims towards shore,1
+A woman is waiting with children as she is checked out at Walmart.,A woman is standing at the counter at Target. A woman is standing at the counter at Target.,2
+A woman is waiting with children as she is checked out at Walmart.,A woman has children with her at the check out counter. A woman has children with her at the check out counter.,0
+A woman is waiting with children as she is checked out at Walmart.,A woman has three children with her. A woman has three children with her.,1
+A blond woman with two children is checking out at a Walmart register.,A mother is with her two children at Walmart buying food A mother is with her two children at Walmart buying food,1
+A blond woman with two children is checking out at a Walmart register.,Food makes people hungry Food makes people hungry,2
+A blond woman with two children is checking out at a Walmart register.,A mother is with her two children at walmart A mother is with her two children at walmart,0
+A woman sitting in a laundromat looking at the camera.,A monkey is eating a banana. A monkey is eating a banana.,2
+A woman sitting in a laundromat looking at the camera.,A woman is modeling appliances for the camera. A woman is modeling appliances for the camera.,1
+A woman sitting in a laundromat looking at the camera.,There is a woman in a room. There is a woman in a room.,0
+A young boy paddles across the water in a makeshift boat.,A boy is boating in a pond. A boy is boating in a pond.,1
+A young boy paddles across the water in a makeshift boat.,A boy is in a boat. A boy is in a boat.,0
+A young boy paddles across the water in a makeshift boat.,A boy is swimming. A boy is swimming.,2
+A baseball player is about to throw a baseball.,A baseball playing is throwing a ball A baseball playing is throwing a ball,1
+A baseball player is about to throw a baseball.,A baseball player is swinging to hit the ball. A baseball player is swinging to hit the ball.,0
+A baseball player is about to throw a baseball.,A baseball is broken A baseball is broken,2
+A dog zips along the beach.,A dog is chasing a ball on the beach. A dog is chasing a ball on the beach.,1
+A dog zips along the beach.,A dog is sleeping in the living room. A dog is sleeping in the living room.,2
+A dog zips along the beach.,A dog is outside. A dog is outside.,0
+A white dog runs along a rocky shoreline.,A dog is running up the stairs at home. A dog is running up the stairs at home.,2
+A white dog runs along a rocky shoreline.,A dog is running with his owner outside. A dog is running with his owner outside.,1
+A white dog runs along a rocky shoreline.,A dog is running outside. A dog is running outside.,0
+A fuzzy white lap dog runs along a rocky beach.,A dog runs across the beach. A dog runs across the beach.,0
+A fuzzy white lap dog runs along a rocky beach.,A dog chases birds on the beach. A dog chases birds on the beach.,1
+A fuzzy white lap dog runs along a rocky beach.,A dog snuggle down under blankets on the couch. A dog snuggle down under blankets on the couch.,2
+A small white dog running on a pebble covered beach.,A dog on the beach. A dog on the beach.,0
+A small white dog running on a pebble covered beach.,A seagull on the dock. A seagull on the dock.,2
+A small white dog running on a pebble covered beach.,A dog runs after his boy and the frisbee. A dog runs after his boy and the frisbee.,1
+A baseball player is putting all his might in to throwing a ball.,Player is giving the ball away Player is giving the ball away,1
+A baseball player is putting all his might in to throwing a ball.,Pitcher is winding up a throw Pitcher is winding up a throw,0
+A baseball player is putting all his might in to throwing a ball.,The player tossed the football The player tossed the football,2
+Cheerleaders are on the field cheering.,The cheerleaders are wearing blue. The cheerleaders are wearing blue.,1
+Cheerleaders are on the field cheering.,An empty field. An empty field.,2
+Cheerleaders are on the field cheering.,Some people are cheering on a field. Some people are cheering on a field.,0
+Cheerleaders are on the field cheering.,Cheerleaders are waiting for the game to begin. Cheerleaders are waiting for the game to begin.,1
+Cheerleaders are on the field cheering.,The football player killed the cheerleader with his bullet pass. The football player killed the cheerleader with his bullet pass.,2
+Cheerleaders are on the field cheering.,The Dallas Cowboys' cheerleaders are trying to pump-up the crowd. The Dallas Cowboys' cheerleaders are trying to pump-up the crowd.,1
+Cheerleaders are on the field cheering.,There are people outdoors. There are people outdoors.,0
+Cheerleaders are on the field cheering.,Cheerleaders cheer on a field for an activity. Cheerleaders cheer on a field for an activity.,0
+Cheerleaders are on the field cheering.,People cheering. People cheering.,0
+Cheerleaders are on the field cheering.,People sit on the snow-covered bench. People sit on the snow-covered bench.,2
+Cheerleaders are on the field cheering.,Cheerleaders cheering. Cheerleaders cheering.,0
+Cheerleaders are on the field cheering.,Some football players are practicing a running play. Some football players are practicing a running play.,2
+Cheerleaders are on the field cheering.,The cheerleaders cheer for the start of the big game. The cheerleaders cheer for the start of the big game.,1
+Cheerleaders are on the field cheering.,Cheerleaders cheer for the football team. Cheerleaders cheer for the football team.,1
+Cheerleaders are on the field cheering.,An old man wearing a diaper. An old man wearing a diaper.,2
+A woman holding a boombox.,A man holding a boombox. A man holding a boombox.,2
+A woman holding a boombox.,A sad woman holding a boombox. A sad woman holding a boombox.,1
+A woman holding a boombox.,A person holding a boombox. A person holding a boombox.,0
+A woman in a blue shirt and green hat looks up at the camera.,A woman wearing a blue shirt and green hat looks at the camera A woman wearing a blue shirt and green hat looks at the camera,0
+A woman in a blue shirt and green hat looks up at the camera.,A woman wearing a blue shirt and green hat smiles at the camera A woman wearing a blue shirt and green hat smiles at the camera,1
+A woman in a blue shirt and green hat looks up at the camera.,A woman wearing a blue shirt and green hat is on her cellphone A woman wearing a blue shirt and green hat is on her cellphone,2
+Cheerleaders are doing a cheer at a football field.,The cheerleaders are wearing black and red uniforms. The cheerleaders are wearing black and red uniforms.,1
+Cheerleaders are doing a cheer at a football field.,The cheerleaders are wearing clothes. The cheerleaders are wearing clothes.,0
+Cheerleaders are doing a cheer at a football field.,The cheerleaders are at the basketball arena. The cheerleaders are at the basketball arena.,2
+"An excited, smiling woman stands at a red railing as she holds a boombox to one side.",A human standing. A human standing.,0
+"An excited, smiling woman stands at a red railing as she holds a boombox to one side.",A tall human stanindg. A tall human stanindg.,1
+"An excited, smiling woman stands at a red railing as she holds a boombox to one side.",Nobody is standing. Nobody is standing.,2
+A lady is kneeling wearing a blue shirt.,A lady is close to the floor. A lady is close to the floor.,0
+A lady is kneeling wearing a blue shirt.,A lady is kneeling before the priest at church. A lady is kneeling before the priest at church.,1
+A lady is kneeling wearing a blue shirt.,The woman is doing jumping jacks outside. The woman is doing jumping jacks outside.,2
+The silhouette of three people in front of a wall.,The people are by the wall. The people are by the wall.,0
+The silhouette of three people in front of a wall.,The people are running down the country road. The people are running down the country road.,2
+The silhouette of three people in front of a wall.,The wall is painted. The wall is painted.,1
+Two people wearing blue clothing are making hand gestures next to one another.,A man and a woman are standing next to each other and communicating through sign language. A man and a woman are standing next to each other and communicating through sign language.,1
+Two people wearing blue clothing are making hand gestures next to one another.,A man is sitting with his hands in his pockets. A man is sitting with his hands in his pockets.,2
+Two people wearing blue clothing are making hand gestures next to one another.,Two people are next to each other. Two people are next to each other.,0
+A spotted black and white dog splashes in the water.,the dog is in the water the dog is in the water,0
+A spotted black and white dog splashes in the water.,the dog is swimming by itself the dog is swimming by itself,1
+A spotted black and white dog splashes in the water.,the dog is eating out of his favorite bowl in the kitchen the dog is eating out of his favorite bowl in the kitchen,2
+"A large group, wearing pink shirts, waves to onlookers.",A crowd gesticulates. A crowd gesticulates.,0
+"A large group, wearing pink shirts, waves to onlookers.",They are raising money. They are raising money.,1
+"A large group, wearing pink shirts, waves to onlookers.",No one is watching them. No one is watching them.,2
+A baby is playing with a strand of beads.,The beads are multi-colored. The beads are multi-colored.,1
+A baby is playing with a strand of beads.,The baby is sleeping. The baby is sleeping.,2
+A baby is playing with a strand of beads.,The baby is playing. The baby is playing.,0
+People are on a stage performing.,people are sleeping people are sleeping,2
+People are on a stage performing.,people are singing onstage people are singing onstage,1
+People are on a stage performing.,pwople are on stage pwople are on stage,0
+A woman is running a marathon in a park.,The woman is running in her backyard. The woman is running in her backyard.,2
+A woman is running a marathon in a park.,The woman is running fast. The woman is running fast.,1
+A woman is running a marathon in a park.,The woman is outdoors. The woman is outdoors.,0
+A group of people point forwards while performing some kind of act.,A group of people point forwards while doing something. A group of people point forwards while doing something.,0
+A group of people point forwards while performing some kind of act.,A group of people fight using tigers. A group of people fight using tigers.,2
+A group of people point forwards while performing some kind of act.,A group of people point somewhere while speaking. A group of people point somewhere while speaking.,1
+Several people are dancing together in sync.,kids are fighting each other. kids are fighting each other.,2
+Several people are dancing together in sync.,man and woman dancing together. man and woman dancing together.,1
+Several people are dancing together in sync.,people are dancing. people are dancing.,0
+Group of people dancing,people dance together people dance together,0
+Group of people dancing,people are dancing with one another during a religious ritual people are dancing with one another during a religious ritual,1
+Group of people dancing,dogs are mating dogs are mating,2
+An adult couple enjoys time in a hot tub.,A couple is inside watching TV. A couple is inside watching TV.,2
+An adult couple enjoys time in a hot tub.,A couple is in a hot tub. A couple is in a hot tub.,0
+An adult couple enjoys time in a hot tub.,A couple is in a hot tub outside. A couple is in a hot tub outside.,1
+An average looking man is playing the guitar.,The man knows how to play guitar. The man knows how to play guitar.,0
+An average looking man is playing the guitar.,The man can play the guitar well. The man can play the guitar well.,1
+An average looking man is playing the guitar.,The man is playing the drums. The man is playing the drums.,2
+Two tan and white dogs and one tan dog racing down the beach near the water.,three dogs are chasing a ball three dogs are chasing a ball,1
+Two tan and white dogs and one tan dog racing down the beach near the water.,three dogs are outside three dogs are outside,0
+Two tan and white dogs and one tan dog racing down the beach near the water.,three dogs are laying in a couch three dogs are laying in a couch,2
+A man and woman are walking down the street holding hands.,A man and woman are walking down opposite sides of the street. A man and woman are walking down opposite sides of the street.,2
+A man and woman are walking down the street holding hands.,A couple of people are holding hands while walking. A couple of people are holding hands while walking.,0
+A man and woman are walking down the street holding hands.,A newlywed couple hold hands and skip down the street. A newlywed couple hold hands and skip down the street.,1
+A man is using his computer while seated at a desk.,A man searches the internet sitting down. A man searches the internet sitting down.,1
+A man is using his computer while seated at a desk.,A woman drinks a beer at her desk. A woman drinks a beer at her desk.,2
+A man is using his computer while seated at a desk.,A man sits at a desk. A man sits at a desk.,0
+A camera crew is filming two women in formal dresses sitting on a blanket in the middle of a park.,Someone is filming. Someone is filming.,0
+A camera crew is filming two women in formal dresses sitting on a blanket in the middle of a park.,Everyone wearing formal clothes is inside. Everyone wearing formal clothes is inside.,2
+A camera crew is filming two women in formal dresses sitting on a blanket in the middle of a park.,Someone is operating a microphone. Someone is operating a microphone.,1
+man sitting down playing a game of chess alone,A guy playing a board game by himself. A guy playing a board game by himself.,0
+man sitting down playing a game of chess alone,The man taking a snooze. The man taking a snooze.,2
+man sitting down playing a game of chess alone,A human sitting down playing one game of chess alone. A human sitting down playing one game of chess alone.,1
+Young woman running as two guys in the back try to catch up to her.,group of people running group of people running,0
+Young woman running as two guys in the back try to catch up to her.,women runs for her life women runs for her life,1
+Young woman running as two guys in the back try to catch up to her.,women has coffee with two guys women has coffee with two guys,2
+A man in a blue shirt sits outside alone with a chessboard laid out in front of him.,A man in a blue shirt sitting outside behind a large wooden chessboard. A man in a blue shirt sitting outside behind a large wooden chessboard.,1
+A man in a blue shirt sits outside alone with a chessboard laid out in front of him.,Someone sitting outside behind a chessboard. Someone sitting outside behind a chessboard.,0
+A man in a blue shirt sits outside alone with a chessboard laid out in front of him.,Two elderly men playing Scrabble. Two elderly men playing Scrabble.,2
+A man dressed in blue shirt and shorts sits at a table while playing black in chess.,Two men are playing chess Two men are playing chess,1
+A man dressed in blue shirt and shorts sits at a table while playing black in chess.,The man is jogging The man is jogging,2
+A man dressed in blue shirt and shorts sits at a table while playing black in chess.,A man is playing a game A man is playing a game,0
+A young man in a blue blazer and shorts sits alone in front of table with a chess game set up.,A man sits in front of a set up chess game. A man sits in front of a set up chess game.,0
+A young man in a blue blazer and shorts sits alone in front of table with a chess game set up.,A man is waiting for his chess opponent to arrive. A man is waiting for his chess opponent to arrive.,1
+A young man in a blue blazer and shorts sits alone in front of table with a chess game set up.,A grandma plays a game of connect four at the rotary club meeting. A grandma plays a game of connect four at the rotary club meeting.,2
+A young Asian man sits behind a set chessboard waiting for the other player to arrive.,A young man is sitting. A young man is sitting.,0
+A young Asian man sits behind a set chessboard waiting for the other player to arrive.,A young man is on Mars. A young man is on Mars.,2
+A young Asian man sits behind a set chessboard waiting for the other player to arrive.,A young man is indoors. A young man is indoors.,1
+"Two young men drink beer, leaning on a graffitied wall.",The men are drinking. The men are drinking.,0
+"Two young men drink beer, leaning on a graffitied wall.",The men are being sprayed with cans of paint while they are passes out drunk in the alley. The men are being sprayed with cans of paint while they are passes out drunk in the alley.,2
+"Two young men drink beer, leaning on a graffitied wall.",The men are standing in urine. The men are standing in urine.,1
+A man being airlifted to safety after being in danger.,The helicopter is moving people in danger. The helicopter is moving people in danger.,1
+A man being airlifted to safety after being in danger.,A man is being moved. A man is being moved.,0
+A man being airlifted to safety after being in danger.,The helicopter is putting people in a dangerous area. The helicopter is putting people in a dangerous area.,2
+People in a meeting setting paying attention to a speaker in an orange shirt.,The people are listening to music on their CD players. The people are listening to music on their CD players.,2
+People in a meeting setting paying attention to a speaker in an orange shirt.,The people are listening to a speaker. The people are listening to a speaker.,0
+People in a meeting setting paying attention to a speaker in an orange shirt.,The speaker is the people's boss. The speaker is the people's boss.,1
+A meeting of young people sitting at a conference table.,young people are at a party having fun young people are at a party having fun,2
+A meeting of young people sitting at a conference table.,young people are learning about politics young people are learning about politics,1
+A meeting of young people sitting at a conference table.,young people are gathered around a table young people are gathered around a table,0
+A woman in a red shirt is speaking at a table in a room where three other people are listening to her.,the woman is going to the park. the woman is going to the park.,1
+A woman in a red shirt is speaking at a table in a room where three other people are listening to her.,the woman is swimming in the lake. the woman is swimming in the lake.,2
+A woman in a red shirt is speaking at a table in a room where three other people are listening to her.,the woman is wearing a red shirt. the woman is wearing a red shirt.,0
+A woman talks to two other women and a man with notepads in an office building with large windows.,A woman talks to others indoors. A woman talks to others indoors.,0
+A woman talks to two other women and a man with notepads in an office building with large windows.,a woman in an office building talks to a group of three taking notes on a notepad a woman in an office building talks to a group of three taking notes on a notepad,1
+A woman talks to two other women and a man with notepads in an office building with large windows.,a man talks to ducks in a pond a man talks to ducks in a pond,2
+A woman talks to two other women and a man with notepads in an office building with large windows.,the woman is white the woman is white,1
+A woman talks to two other women and a man with notepads in an office building with large windows.,a woman in an office building talks to two other women and a man with notepads a woman in an office building talks to two other women and a man with notepads,0
+A woman talks to two other women and a man with notepads in an office building with large windows.,A woman talks to dogs inside an office building. A woman talks to dogs inside an office building.,2
+A woman talks to two other women and a man with notepads in an office building with large windows.,the woman is asleep at home the woman is asleep at home,2
+A woman talks to two other women and a man with notepads in an office building with large windows.,The people are outside of the building looking inside. The people are outside of the building looking inside.,2
+A woman talks to two other women and a man with notepads in an office building with large windows.,a woman is talking a woman is talking,0
+A woman talks to two other women and a man with notepads in an office building with large windows.,A woman talks to others indoors about lunch. A woman talks to others indoors about lunch.,1
+A woman talks to two other women and a man with notepads in an office building with large windows.,Four people stand near a wall speaking to each other. Four people stand near a wall speaking to each other.,0
+A woman talks to two other women and a man with notepads in an office building with large windows.,A woman talks to three other women. A woman talks to three other women.,2
+A woman talks to two other women and a man with notepads in an office building with large windows.,A woman happily talks to two other women. A woman happily talks to two other women.,1
+A woman talks to two other women and a man with notepads in an office building with large windows.,The group are discussing a project. The group are discussing a project.,1
+A woman talks to two other women and a man with notepads in an office building with large windows.,A woman talks to two other women. A woman talks to two other women.,0
+A classroom of students discussing lecture.,The students are running in P.E. class. The students are running in P.E. class.,2
+A classroom of students discussing lecture.,A classroom is discussing the topics of the day. A classroom is discussing the topics of the day.,0
+A classroom of students discussing lecture.,The students are discussing the lecture in history class. The students are discussing the lecture in history class.,1
+A man holds a clipboard and a pen as a woman looks at them.,The man is working The man is working,1
+A man holds a clipboard and a pen as a woman looks at them.,The woman is asleep The woman is asleep,2
+A man holds a clipboard and a pen as a woman looks at them.,A woman is looking at a man's possessions A woman is looking at a man's possessions,0
+A man with a bright green shirt is talking to a woman in a pink shirt.,A couple are eating dinner. A couple are eating dinner.,2
+A man with a bright green shirt is talking to a woman in a pink shirt.,A couple is standing outside. A couple is standing outside.,1
+A man with a bright green shirt is talking to a woman in a pink shirt.,A couple is talking. A couple is talking.,0
+A man in a green shirt holds out a clipboard for a woman in pink's attention.,A man wants a woman to look at his clipboard A man wants a woman to look at his clipboard,0
+A man in a green shirt holds out a clipboard for a woman in pink's attention.,a man is trying to get a woman to sign something a man is trying to get a woman to sign something,1
+A man in a green shirt holds out a clipboard for a woman in pink's attention.,A man takes off his shirt to get a womans attention A man takes off his shirt to get a womans attention,2
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,A man is wearing a gold shirt A man is wearing a gold shirt,2
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,A man shows his boss something on a clipboard. A man shows his boss something on a clipboard.,1
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,A man shows a woman something. A man shows a woman something.,0
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,The man has something to tell the woman. The man has something to tell the woman.,0
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,Two people are looking at a clipboard. Two people are looking at a clipboard.,0
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,The woman is wearing blue. The woman is wearing blue.,2
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,A man is teaching a woman a concept A man is teaching a woman a concept,1
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,There is a man and a woman. There is a man and a woman.,0
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,Two people are looking at notes on an electronic tablet. Two people are looking at notes on an electronic tablet.,2
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,The man is drinking a cup of coffee. The man is drinking a cup of coffee.,2
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,A man is wearing a bright green shirt A man is wearing a bright green shirt,0
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,The man and the woman are employees at the same business. The man and the woman are employees at the same business.,1
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,A man in a green shirt shows a woman his paychecks on a clipboard. A man in a green shirt shows a woman his paychecks on a clipboard.,1
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,The woman shows the man a clipboard. The woman shows the man a clipboard.,2
+A man in a bright green shirt shows a woman in a bright pink shirt something on a clipboard.,The clipboard has writting on it. The clipboard has writting on it.,1
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A man is showing a woman a funny video on his tablet A man is showing a woman a funny video on his tablet,1
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,The tablet is turned on. The tablet is turned on.,1
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,The man is on another street than the woman. The man is on another street than the woman.,2
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,The man and woman are outdoors. The man and woman are outdoors.,0
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A man and a woman are outside. A man and a woman are outside.,0
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A man and a woman are eating in a resteraunt. A man and a woman are eating in a resteraunt.,2
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A man is stealing a woman's tablet A man is stealing a woman's tablet,2
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A woman shows a cell phone to a person standing nearby. A woman shows a cell phone to a person standing nearby.,2
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A couple are using a tablet to watch a video on the street. A couple are using a tablet to watch a video on the street.,1
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A woman is shown a tablet by a man standing on the street. A woman is shown a tablet by a man standing on the street.,0
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A man having cell phone in his hand A man having cell phone in his hand,1
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A man shows directions to a museum on a tablet to a woman nearby. A man shows directions to a museum on a tablet to a woman nearby.,1
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,There are some people in a street There are some people in a street,0
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,The man handover the cell phone to the woman The man handover the cell phone to the woman,2
+A man on a street in a bright t-shirt holds some sort of tablet towards a woman in a pink t-shirt and shades.,A man is showing a woman something A man is showing a woman something,0
+A child with a yellow cup and milk all over his face.,The child spilled his milk. The child spilled his milk.,1
+A child with a yellow cup and milk all over his face.,The child has a clean face. The child has a clean face.,2
+A child with a yellow cup and milk all over his face.,The child had milk all over his face. The child had milk all over his face.,0
+Two barefoot men are playing on a green lawn outside a building with other people in the background.,Two men are barefoot on the lawn. Two men are barefoot on the lawn.,0
+Two barefoot men are playing on a green lawn outside a building with other people in the background.,Two men in sandles are on the beach. Two men in sandles are on the beach.,2
+Two barefoot men are playing on a green lawn outside a building with other people in the background.,Two men are playing barefoot lawn darts. Two men are playing barefoot lawn darts.,1
