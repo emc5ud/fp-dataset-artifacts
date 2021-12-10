@@ -1,4 +1,11 @@
-# fp-dataset-artifacts
+# Project
+
+The goal of this project is to investigate the presence of "dataset artifacts" in an NLP task, and work on methods to mitigate them. The bulk of the investigation done in this project is present in the `notebooks/` folder. This project was a part of the Natural Language Processing graduate course at UT Austin (DSC 395T). See [here] for the pdf of our paper. The abstract is copied below:
+
+> Although significant advances have been made in the NLP space in recent years, model generalization continues to be hindered by dataset artifacts, correlations within data that models learn rather than the underlying language tasks. This paper explores the presence of such artifacts in the SNLI dataset, specifically when learned by the ELECTRA-small model architecture. Through methodologies such as CheckList and adversarial challenge sets, we uncover unique and abnormal behaviors of the model and propose techniques to correct them.
+
+
+# fp-dataset-artifacts starter code
 
 Project by Kaj Bostrom, Jifan Chen, and Greg Durrett. Code by Kaj Bostrom and Jifan Chen.
 
@@ -70,3 +77,4 @@ This command looks slightly different if you're not using `bash` on Linux. The [
 Once you've activated your virtual environment, you can use `pip` to install packages the way you normally would, but the installed
 packages will stay in the virtual environment instead of your global Python installation. Only the virtual environment's Python
 executable will be able to see these packages.
+
